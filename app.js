@@ -102,6 +102,13 @@ function renderCard(video) {
   img.loading = "lazy";
   thumbWrap.appendChild(img);
 
+  if (video.membersOnly) {
+    const badge = document.createElement("span");
+    badge.className = "badge-members";
+    badge.textContent = "Members only";
+    thumbWrap.appendChild(badge);
+  }
+
   const title = document.createElement("div");
   title.className = "card-title";
   title.textContent = video.title;

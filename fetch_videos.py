@@ -14,9 +14,10 @@ import yt_dlp
 
 MAX_VIDEOS_PER_CHANNEL = 200
 
-# yt-dlp availability values that mean the video is restricted somehow.
-# We only want fully public videos on CamiTube.
-BLOCKED_AVAILABILITY = {"subscriber_only", "premium_only", "needs_auth", "private"}
+# "private" videos are truly broken links and get dropped entirely.
+# Subscriber/membership videos are kept, just tagged, so people know before clicking.
+SKIP_AVAILABILITY = {"private"}
+MEMBERS_ONLY_AVAILABILITY = {"subscriber_only", "premium_only"}
 
 
 def load_channel_handles():
@@ -46,14 +47,13 @@ def fetch_channel(handle):
         if not e or not e.get("id"):
             continue
 
-        # Skip members-only / subscriber-only / private videos.
-        if e.get("availability") in BLOCKED_AVAILABILITY:
+        if e.get("availability") in SKIP_AVAILABILITY:
             continue
+
         badge_labels = " ".join(
             (b.get("label") or "") for b in (e.get("badges") or [])
         ).lower()
-        if "member" in badge_labels:
-            continue
+        members_only = e.get("availability") in MEMBERS_ONLY_AVAILABILITY or "member" in badge_labels
 
         published = None
         ts = e.get("timestamp")
@@ -69,6 +69,7 @@ def fetch_channel(handle):
             "channelTitle": channel_title,
             "publishedAt": published,
             "thumb": f"https://i.ytimg.com/vi/{e['id']}/mqdefault.jpg",
+            "membersOnly": members_only,
         })
 
     channel_meta = {"channelId": channel_id, "handle": handle, "title": channel_title}

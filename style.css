@@ -56,7 +56,7 @@ button {
 }
 
 .logo-img {
-  height: 24px;
+  height: 34px;
   width: auto;
   display: block;
 }
@@ -184,6 +184,19 @@ main {
 }
 
 .card:hover .thumb-wrap img { transform: scale(1.03); }
+
+.badge-members {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: var(--ink);
+  color: var(--bg);
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 4px;
+  letter-spacing: 0.2px;
+}
 
 .card-title {
   font-family: var(--serif);
