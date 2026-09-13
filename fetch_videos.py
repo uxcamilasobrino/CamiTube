@@ -8,7 +8,7 @@ Can also be run locally: pip install yt-dlp && python scripts/fetch_videos.py
 
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import yt_dlp
 
@@ -19,10 +19,32 @@ MAX_VIDEOS_PER_CHANNEL = 200
 SKIP_AVAILABILITY = {"private"}
 MEMBERS_ONLY_AVAILABILITY = {"subscriber_only", "premium_only"}
 
+# The fast channel-page scrape doesn't always carry an accurate membership
+# flag. For recent videos (the ones that actually show up in "Latest videos")
+# we do one extra, precise check per video. Bounded so it stays fast overall.
+RECHECK_WINDOW_DAYS = 14
+RECHECK_MAX_PER_CHANNEL = 20
+
 
 def load_channel_handles():
     with open("channels.json", "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def check_members_only(video_id):
+    """
+    Does a precise, single-video check of membership status. Slower than the
+    flat channel scrape (one real request), so this is only used sparingly,
+    for recent videos.
+    """
+    ydl_opts = {"quiet": True, "no_warnings": True, "skip_download": True}
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(f"https://www.youtube.com/watch?v={video_id}", download=False)
+        return info.get("availability") in MEMBERS_ONLY_AVAILABILITY
+    except Exception as exc:
+        print(f"  recheck failed for {video_id}: {exc}", file=sys.stderr)
+        return None
 
 
 def fetch_channel(handle):
@@ -73,6 +95,24 @@ def fetch_channel(handle):
         })
 
     channel_meta = {"channelId": channel_id, "handle": handle, "title": channel_title}
+
+    # Precisely recheck membership status for recent videos only, so the
+    # "Latest videos" tab is accurate without slowing down full-history scraping.
+    cutoff = datetime.now(timezone.utc) - timedelta(days=RECHECK_WINDOW_DAYS)
+    rechecked = 0
+    for v in videos:
+        if rechecked >= RECHECK_MAX_PER_CHANNEL:
+            break
+        if not v["publishedAt"]:
+            continue
+        published_dt = datetime.strptime(v["publishedAt"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+        if published_dt < cutoff:
+            continue
+        accurate = check_members_only(v["videoId"])
+        if accurate is not None:
+            v["membersOnly"] = accurate
+        rechecked += 1
+
     return channel_meta, videos
 
 

@@ -213,15 +213,14 @@ main {
   font-size: 12.5px;
   color: var(--muted);
   display: flex;
+  justify-content: space-between;
+  align-items: baseline;
   gap: 8px;
-  align-items: center;
 }
 
-.card-meta .channel-swatch {
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
+.card-date {
   flex-shrink: 0;
+  white-space: nowrap;
 }
 
 /* Load more */
