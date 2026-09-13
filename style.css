@@ -53,23 +53,12 @@ button {
 .wordmark {
   display: flex;
   align-items: center;
-  gap: 9px;
 }
 
-.wordmark .dot {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: var(--accent);
-  flex-shrink: 0;
-}
-
-.wordmark-text {
-  font-family: var(--serif);
-  font-style: italic;
-  font-weight: 500;
-  font-size: 22px;
-  letter-spacing: 0.2px;
+.logo-img {
+  height: 24px;
+  width: auto;
+  display: block;
 }
 
 .ghost-btn {
@@ -265,6 +254,11 @@ main {
   padding: 1px 5px;
   border-radius: 4px;
   font-size: 12px;
+}
+
+.site-footer .credit {
+  margin-top: 8px;
+  color: var(--muted);
 }
 
 /* Player overlay */

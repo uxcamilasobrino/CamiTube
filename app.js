@@ -7,8 +7,9 @@ const SWATCHES = ["#c1121f", "#3a5a40", "#1d3557", "#e07a5f", "#6a4c93", "#2a9d8
 
 let channels = [];        // [{ channelId, handle, title }]
 let pool = [];             // all videos, sorted newest first
-let activeFilter = "all";  // "all" or a channelId
+let activeFilter = "all";  // "all" (last LATEST_WINDOW_DAYS days) or a channelId (full history)
 let shown = 0;              // how many of the current filtered list are rendered
+let nameByChannelId = {};  // channelId -> short display name
 
 const $ = (sel) => document.querySelector(sel);
 const grid = $("#grid");
@@ -35,22 +36,25 @@ function formatDate(iso) {
 }
 
 function currentList() {
-  if (activeFilter === "all") return pool;
+  if (activeFilter === "all") {
+    const cutoff = Date.now() - LATEST_WINDOW_DAYS * 24 * 60 * 60 * 1000;
+    return pool.filter((v) => new Date(v.publishedAt).getTime() >= cutoff);
+  }
   return pool.filter((v) => v.channelId === activeFilter);
 }
 
 function renderFilters() {
   filterRow.innerHTML = "";
-  const allPill = document.createElement("button");
-  allPill.className = "pill" + (activeFilter === "all" ? " active" : "");
-  allPill.textContent = "All channels";
-  allPill.addEventListener("click", () => setFilter("all"));
-  filterRow.appendChild(allPill);
+  const latestPill = document.createElement("button");
+  latestPill.className = "pill" + (activeFilter === "all" ? " active" : "");
+  latestPill.textContent = "Latest videos";
+  latestPill.addEventListener("click", () => setFilter("all"));
+  filterRow.appendChild(latestPill);
 
   channels.forEach((c) => {
     const pill = document.createElement("button");
     pill.className = "pill" + (activeFilter === c.channelId ? " active" : "");
-    pill.textContent = c.title;
+    pill.textContent = nameByChannelId[c.channelId] || c.title;
     pill.addEventListener("click", () => setFilter(c.channelId));
     filterRow.appendChild(pill);
   });
@@ -68,7 +72,11 @@ function renderGrid(reset) {
   if (reset) grid.innerHTML = "";
 
   if (list.length === 0) {
-    setStatus("No videos yet — check back after the next scheduled update.");
+    setStatus(
+      activeFilter === "all"
+        ? "No videos from the last week — pick a channel above to see its full history."
+        : "No videos yet — check back after the next scheduled update."
+    );
     loadMoreBtn.hidden = true;
     return;
   }
@@ -104,7 +112,7 @@ function renderCard(video) {
   swatch.className = "channel-swatch";
   swatch.style.background = colorFor(video.channelId);
   const channelName = document.createElement("span");
-  channelName.textContent = video.channelTitle;
+  channelName.textContent = nameByChannelId[video.channelId] || video.channelTitle;
   const date = document.createElement("span");
   date.textContent = formatDate(video.publishedAt);
 
@@ -167,6 +175,11 @@ async function boot() {
     const data = await res.json();
 
     channels = data.channels || [];
+    nameByChannelId = {};
+    channels.forEach((c) => {
+      nameByChannelId[c.channelId] = DISPLAY_NAMES[c.handle] || c.title;
+    });
+
     pool = (data.videos || []).slice().sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
     if (data.generatedAt) {
