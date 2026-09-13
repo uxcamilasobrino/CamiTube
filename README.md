@@ -1,47 +1,51 @@
 # CamiTube
 
-A tiny, private YouTube front end that shows only the channels you choose — nothing else from YouTube ever appears. Home shows the most recent uploads across all your channels, mixed together by date, and you can keep clicking **Show older videos** to go back through each channel's full history. There's also a filter row to view one channel at a time.
+A private, minimal YouTube front end that shows only the channels you choose. Home mixes recent uploads from every channel by date, and **Show older videos** keeps paging back through full history. A filter row lets you jump to a single channel.
 
-It's a static site: three files (`index.html`, `style.css`, `app.js`) plus `config.js` for your channel list. No build step, no server.
+**No YouTube API key needed.** Instead, a GitHub Action runs [yt-dlp](https://github.com/yt-dlp/yt-dlp) on a schedule, writes the results to `videos.json`, and the site (pure HTML/CSS/JS) just reads that file. Nothing runs in your browser except reading a JSON file and embedding YouTube's normal player.
 
-## 1. Get a free YouTube API key
+## Files
 
-CamiTube talks directly to YouTube's own API from your browser, using a key only you hold (it's saved in your browser's local storage, never sent anywhere else).
+- `index.html`, `style.css`, `app.js` — the site itself
+- `channels.json` — the list of channels to include (edit this to add/remove one)
+- `videos.json` — generated automatically; don't edit by hand
+- `scripts/fetch_videos.py` — the scraper, run by the workflow below
+- `.github/workflows/update-videos.yml` — schedules the refresh
 
-1. Open the [Google Cloud Console](https://console.cloud.google.com/apis/library/youtube.googleapis.com) and create a project (or reuse one).
-2. Enable **YouTube Data API v3**.
-3. Go to **APIs & Services → Credentials → Create credentials → API key**.
-4. Copy the key.
+## 1. Upload everything to your repo
 
-The free daily quota (10,000 units) comfortably covers many page loads for a list of 8 channels — each load costs roughly 1 unit per channel.
+Keep the folder structure as-is — `scripts/` and `.github/workflows/` need to stay in those exact locations for the Action to be found.
 
-Optional but recommended: in the key's settings, restrict it to **YouTube Data API v3** and, if you like, to the `HTTP referrers` matching your GitHub Pages URL, so the key can't be reused elsewhere.
+## 2. Allow the Action to commit back to your repo
 
-## 2. Edit your channel list
+This is the one manual step:
 
-Open `config.js` and edit the `CHANNELS` array — one handle per line:
+1. In your repo, go to **Settings → Actions → General**.
+2. Scroll to **Workflow permissions**.
+3. Select **Read and write permissions**.
+4. Click **Save**.
 
-```js
-const CHANNELS = [
-  { handle: "@Figma" },
-  { handle: "@UICollectiveDesign" },
-  // add or remove as you like
-];
-```
+Without this, the workflow can fetch videos but can't save `videos.json` back to the repo.
 
-## 3. Host it on GitHub Pages
+## 3. Turn on GitHub Pages
 
-1. Create a new GitHub repository (e.g. `camitube`).
-2. Add these four files to the repo root: `index.html`, `style.css`, `app.js`, `config.js`.
-3. In the repo, go to **Settings → Pages**, set **Source** to your default branch (`main`), root folder.
-4. Wait a minute, then visit the URL GitHub gives you (something like `https://yourname.github.io/camitube/`).
+**Settings → Pages** → Source: **Deploy from a branch** → Branch: `main`, folder `/ (root)` → Save.
 
-## 4. First run
+## 4. Run it for the first time
 
-The first time you open the site, it'll ask you to paste your API key. After that it's remembered on that browser/device — you'd only need to re-enter it on a new browser or if you clear site data.
+Pushing your files should already trigger the workflow once automatically. To check or trigger it manually:
 
-## Notes
+1. Go to the **Actions** tab in your repo.
+2. Click **Update video list** in the left sidebar.
+3. Click **Run workflow** (top right) if it hasn't run yet, or to force a refresh.
+4. It takes a minute or two. When it's done, `videos.json` in your repo will have real content.
 
-- Everything runs client-side; there's no backend and no analytics.
-- Channel-to-ID lookups are cached in local storage so they aren't re-fetched every visit.
-- Videos are pulled from each channel's uploads playlist via the official API, so private/deleted entries are filtered out automatically.
+After that it refreshes on its own every 6 hours — no visits or clicks needed from you. Change the schedule by editing the `cron` line in `.github/workflows/update-videos.yml` if you'd like it more or less often.
+
+## Changing the channel list
+
+Edit `channels.json` (one handle per line, e.g. `"@Figma"`). Pushing that change also triggers an immediate refresh.
+
+## A known limitation
+
+YouTube occasionally blocks scraping from cloud-hosted IPs, including GitHub's own runners. If a run fails for one or more channels, it's usually temporary and clears up on the next scheduled run. You can check what happened under the **Actions** tab → the failed run → its logs. If this becomes a persistent problem for you, the original YouTube Data API key approach (no scraping, official and much more reliable) is the fallback — just ask and I can switch it back.

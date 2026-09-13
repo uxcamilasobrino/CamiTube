@@ -17,12 +17,10 @@
       <span class="dot" aria-hidden="true"></span>
       <span class="wordmark-text">CamiTube</span>
     </div>
-    <button id="keyBtn" class="ghost-btn" type="button">API key</button>
+    <span id="updatedAt" class="updated-at"></span>
   </header>
 
-  <nav id="filterRow" class="filter-row" aria-label="Filter by channel">
-    <!-- filled by app.js -->
-  </nav>
+  <nav id="filterRow" class="filter-row" aria-label="Filter by channel"></nav>
 
   <main id="main">
     <div id="status" class="status" hidden></div>
@@ -33,28 +31,8 @@
   </main>
 
   <footer class="site-footer">
-    <p>CamiTube shows only the channels listed in <code>config.js</code>. Your API key stays in your browser — it is never sent anywhere but Google.</p>
+    <p>CamiTube shows only the channels listed in <code>channels.json</code>. The video list refreshes automatically every few hours &mdash; no account or API key required.</p>
   </footer>
-
-  <!-- Setup / API key modal -->
-  <div id="modalOverlay" class="modal-overlay" hidden>
-    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
-      <h2 id="modalTitle">Connect a YouTube API key</h2>
-      <p>CamiTube reads video lists straight from YouTube's own API, using a free key that only you hold. Nothing is stored except in this browser.</p>
-      <ol class="steps">
-        <li>Open the <a href="https://console.cloud.google.com/apis/library/youtube.googleapis.com" target="_blank" rel="noopener">Google Cloud Console</a> and create (or pick) a project.</li>
-        <li>Enable the <strong>YouTube Data API v3</strong>.</li>
-        <li>Go to <strong>Credentials</strong> → <strong>Create credentials</strong> → <strong>API key</strong>.</li>
-        <li>Paste it below.</li>
-      </ol>
-      <input id="apiKeyInput" type="text" placeholder="Paste your API key" autocomplete="off" spellcheck="false">
-      <div class="modal-actions">
-        <button id="saveKeyBtn" class="primary-btn" type="button">Save and load videos</button>
-        <button id="cancelKeyBtn" class="ghost-btn" type="button">Cancel</button>
-      </div>
-      <p class="fineprint">The free quota (10,000 units/day) covers thousands of page loads for a channel list this size.</p>
-    </div>
-  </div>
 
   <!-- Player overlay -->
   <div id="playerOverlay" class="player-overlay" hidden>

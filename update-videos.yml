@@ -1,0 +1,39 @@
+name: Update video list
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "channels.json"
+      - "scripts/fetch_videos.py"
+      - ".github/workflows/update-videos.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install yt-dlp
+        run: pip install -U yt-dlp
+
+      - name: Fetch video lists
+        run: python scripts/fetch_videos.py
+
+      - name: Commit videos.json if it changed
+        run: |
+          git config user.name "camitube-bot"
+          git config user.email "actions@github.com"
+          git add videos.json
+          git diff --staged --quiet || git commit -m "Update video list"
+          git push
