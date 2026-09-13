@@ -6,12 +6,15 @@
   --border: #e3e1d9;
   --accent: #c1121f;
   --accent-ink: #ffffff;
-  --serif: "Source Serif 4", Georgia, serif;
-  --sans: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --radius: 6px;
 }
 
 * { box-sizing: border-box; }
+
+/* The hidden attribute must always win, no matter what display a class sets */
+[hidden] { display: none !important; }
 
 html { -webkit-text-size-adjust: 100%; }
 
