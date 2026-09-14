@@ -16,6 +16,21 @@ const loadMoreBtn = $("#loadMoreBtn");
 const filterRow = $("#filterRow");
 const updatedAtEl = $("#updatedAt");
 
+// ---------- Watched videos (stored locally in this browser only) ----------
+
+const WATCHED_LS_KEY = "camitube_watched";
+let watchedIds = new Set(JSON.parse(localStorage.getItem(WATCHED_LS_KEY) || "[]"));
+
+function isWatched(videoId) {
+  return watchedIds.has(videoId);
+}
+
+function markWatched(videoId) {
+  if (watchedIds.has(videoId)) return;
+  watchedIds.add(videoId);
+  localStorage.setItem(WATCHED_LS_KEY, JSON.stringify([...watchedIds]));
+}
+
 function setStatus(text, isError) {
   if (!text) { statusEl.hidden = true; return; }
   statusEl.hidden = false;
@@ -101,8 +116,9 @@ function renderGrid(reset) {
 
 function renderCard(video) {
   const card = document.createElement("button");
-  card.className = "card";
+  card.className = "card" + (isWatched(video.videoId) ? " watched" : "");
   card.type = "button";
+  card.dataset.videoId = video.videoId;
 
   const thumbWrap = document.createElement("div");
   thumbWrap.className = "thumb-wrap";
@@ -118,6 +134,11 @@ function renderCard(video) {
     badge.textContent = "Members only";
     thumbWrap.appendChild(badge);
   }
+
+  const watchedBadge = document.createElement("span");
+  watchedBadge.className = "badge-watched";
+  watchedBadge.textContent = "✓ Watched";
+  thumbWrap.appendChild(watchedBadge);
 
   const title = document.createElement("div");
   title.className = "card-title";
@@ -150,6 +171,10 @@ const playerTitle = $("#playerTitle");
 const playerSub = $("#playerSub");
 
 function openPlayer(video) {
+  markWatched(video.videoId);
+  const cardEl = grid.querySelector(`[data-video-id="${video.videoId}"]`);
+  if (cardEl) cardEl.classList.add("watched");
+
   const iframe = document.createElement("iframe");
   iframe.src = `https://www.youtube.com/embed/${video.videoId}?autoplay=1`;
   iframe.title = video.title;
