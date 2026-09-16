@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:57:52Z",
+  "generatedAt": "2026-09-16T10:42:37Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -69,7 +69,7 @@
     },
     {
       "videoId": "BcomY53jqpo",
-      "title": "14 Designs That Inspired Digital Designer Aitana Picó's Unique Style I Source Material",
+      "title": "14 Designs That Inspired Creative Technologist & Designer Aitana Picó I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-09-15T00:00:00Z",
@@ -120,7 +120,7 @@
       "title": "Teaching AI Your Design System | Victor Nystad, Equinor",
       "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
       "channelTitle": "Into Design Systems",
-      "publishedAt": "2026-09-13T00:00:00Z",
+      "publishedAt": "2026-09-12T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/DfQhO-VUDg8/mqdefault.jpg"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "videoId": "LOKTMloOJ0E",
-      "title": "How I combine and animate shaders to create effects | Show Your Work",
+      "title": "My shaders file deep dive | Show Your Work",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-09-09T00:00:00Z",
@@ -314,14 +314,6 @@
       "channelTitle": "UI Collective",
       "publishedAt": "2026-08-19T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/Oo-5AWdQAt8/mqdefault.jpg"
-    },
-    {
-      "videoId": "4RoBK3RS6AU",
-      "title": "GMT20260812 213250 Recording 640x360",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-08-19T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/4RoBK3RS6AU/mqdefault.jpg"
     },
     {
       "videoId": "NlUNUWtMCUM",
@@ -474,6 +466,14 @@
       "channelTitle": "UI Collective",
       "publishedAt": "2026-08-16T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/jO-wH4zgJV0/mqdefault.jpg"
+    },
+    {
+      "videoId": "4RoBK3RS6AU",
+      "title": "GMT20260812 213250 Recording 640x360",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-08-16T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/4RoBK3RS6AU/mqdefault.jpg"
     },
     {
       "videoId": "bGVY3DrfECQ",
@@ -1365,7 +1365,7 @@
     },
     {
       "videoId": "9c1ZlWBpKrM",
-      "title": "From Figma to Code: Tokens, Documentation, and AI with Supernova",
+      "title": "De Figma a código: tokens, documentación e IA con Supernova",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-07-16T00:00:00Z",
@@ -2909,7 +2909,7 @@
     },
     {
       "videoId": "tj8fmjQFQHU",
-      "title": "Cómo crear apps nativas para ChatGPT - Proceso completo, UX/UI, dev, monetización y subida a store",
+      "title": "How to Create Native Apps for ChatGPT - Complete Process, UX/UI, Dev, Monetization, and Store Sub...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-16T00:00:00Z",
@@ -2917,19 +2917,11 @@
     },
     {
       "videoId": "YVwo0Ka9XRw",
-      "title": "recreo x A Coruña - Cómo seguir creando cuando todo es generativo",
+      "title": "recreo x A Coruña - How to keep creating when everything is generative",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-16T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/YVwo0Ka9XRw/mqdefault.jpg"
-    },
-    {
-      "videoId": "WdzKb8ej3k4",
-      "title": "Refresh - Diseñadores que construyen con IA - ¿Nos eleva o nos sustituye?",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-01-16T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/WdzKb8ej3k4/mqdefault.jpg"
     },
     {
       "videoId": "JjNxRLjHCHw",
@@ -3154,6 +3146,14 @@
       "channelTitle": "UI Collective",
       "publishedAt": "2025-12-16T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/NzFXc6PULh8/mqdefault.jpg"
+    },
+    {
+      "videoId": "WdzKb8ej3k4",
+      "title": "Refresh - Diseñadores que construyen con IA - ¿Nos eleva o nos sustituye?",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2025-12-16T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/WdzKb8ej3k4/mqdefault.jpg"
     },
     {
       "videoId": "pu3nJpEjCGk",
@@ -3477,7 +3477,7 @@
     },
     {
       "videoId": "sxTQ7utiTYg",
-      "title": "Clone websites in 1 second and scale with AI in Figma Make - New vibe coding workflow",
+      "title": "Clona webs en 1 segundo y amplía con IA en Figma Make - Nuevo flujo de vibe coding",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-16T00:00:00Z",
@@ -4005,7 +4005,7 @@
     },
     {
       "videoId": "HqFkqCVBGVY",
-      "title": "La manera más rápida  de aplicar variables. Turbo Variable",
+      "title": "The fastest way to apply variables. Turbo Variable",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-09-16T00:00:00Z",
@@ -4829,7 +4829,7 @@
     },
     {
       "videoId": "kVGnhq4_pWg",
-      "title": "Control de versiones solo de variables en Figma. Increíble y súper útil.",
+      "title": "Version control specifically for Figma variables. Incredible and super useful.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-16T00:00:00Z",
@@ -4885,7 +4885,7 @@
     },
     {
       "videoId": "VJ1LSfrrebQ",
-      "title": "¿Nuevo auto layout y CSS Grid en el Config 24' de Figma? Diseño con grids.",
+      "title": "New auto layout and CSS Grid in Figma's Config 24'? Design with grids.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-16T00:00:00Z",
@@ -4893,7 +4893,7 @@
     },
     {
       "videoId": "rxjL3QW3-cM",
-      "title": "Unboxing + Figma Creator Micro Keyboard Setup - Review",
+      "title": "Unboxing + configuración de Figma Creator Micro Keyboard - Review",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-16T00:00:00Z",
@@ -4917,7 +4917,7 @@
     },
     {
       "videoId": "e41RRSMWV8k",
-      "title": "Creating the Perfect Figma Cover - Auto-update or not?",
+      "title": "Creando la cover de Figma perfecta - ¿Actualización auto o no?",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-16T00:00:00Z",
@@ -4941,7 +4941,7 @@
     },
     {
       "videoId": "KSXc3rL9iRg",
-      "title": "Password protection gratis para tu portfolio en Framer",
+      "title": "Free password protection for your Framer portfolio",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-16T00:00:00Z",
@@ -5053,7 +5053,7 @@
     },
     {
       "videoId": "LeAYZn-Vb3w",
-      "title": "Cómo unir varios componentes locales y crear 1 librería remota única en Figma, sin perder instancias",
+      "title": "How to merge multiple local components into a single remote library in Figma without losing insta...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-16T00:00:00Z",
@@ -5101,7 +5101,7 @@
     },
     {
       "videoId": "F-lSmSLrf9I",
-      "title": "Crea webs en Figma en 1 minuto con inteligencia artificial. Musho: ChatGPT-4 + Stable DiffusionXL",
+      "title": "Create websites in Figma in 1 minute with artificial intelligence. Musho: ChatGPT-4 + Stable Diff...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-16T00:00:00Z",
