@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T02:56:32Z",
+  "generatedAt": "2026-09-21T11:46:57Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -48,7 +48,7 @@
       "title": "Why You Keep Hitting ChatGPT’s Usage Limit | How to Make It Last Longer",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "Nehmat Gereige | AI-Design Professor",
-      "publishedAt": "2026-09-20T14:00:00Z",
+      "publishedAt": "2026-09-20T15:00:00Z",
       "thumb": "https://i.ytimg.com/vi/sh39qvHLaDE/mqdefault.jpg"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "videoId": "BcomY53jqpo",
-      "title": "Global Visual Artist & Designer Aitana Picó Shares her 14 Design Inspirations I Source Material",
+      "title": "14 Designs That Inspired Creative Technologist & Designer Aitana Picó I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-09-15T00:00:00Z",
@@ -168,7 +168,7 @@
       "title": "Teaching AI Your Design System | Victor Nystad, Equinor",
       "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
       "channelTitle": "Into Design Systems",
-      "publishedAt": "2026-09-13T00:00:00Z",
+      "publishedAt": "2026-09-12T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/DfQhO-VUDg8/mqdefault.jpg"
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "videoId": "LOKTMloOJ0E",
-      "title": "My shaders file deep dive | Show Your Work",
+      "title": "How I make shader effects | Show Your Work",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-09-09T00:00:00Z",
@@ -316,14 +316,6 @@
       "thumb": "https://i.ytimg.com/vi/GNsVHcJEf38/mqdefault.jpg"
     },
     {
-      "videoId": "nVofWAfsE3A",
-      "title": "Get Design System feedback without asking using Supernova",
-      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
-      "channelTitle": "Marta Conde",
-      "publishedAt": "2026-08-31T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/nVofWAfsE3A/mqdefault.jpg"
-    },
-    {
       "videoId": "F92SxeolvuM",
       "title": "The 4 Files Every AI-Managed Design System Needs",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
@@ -338,6 +330,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-08-31T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/GzDBkU0irpA/mqdefault.jpg"
+    },
+    {
+      "videoId": "nVofWAfsE3A",
+      "title": "Get Design System feedback without asking using Supernova",
+      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
+      "channelTitle": "Marta Conde",
+      "publishedAt": "2026-08-24T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/nVofWAfsE3A/mqdefault.jpg"
     },
     {
       "videoId": "AF4VD3dfUdc",
@@ -578,14 +578,6 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-08-21T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/9nXMEqZH35A/mqdefault.jpg"
-    },
-    {
-      "videoId": "sYlBqbckWN0",
-      "title": "Vibe Coding Isn't the Problem. You Are.",
-      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
-      "channelTitle": "Malewicz",
-      "publishedAt": "2026-08-21T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/sYlBqbckWN0/mqdefault.jpg"
     },
     {
       "videoId": "iaQfU524-l0",
@@ -1412,6 +1404,14 @@
       "thumb": "https://i.ytimg.com/vi/2UhH5ZQtiGA/mqdefault.jpg"
     },
     {
+      "videoId": "sYlBqbckWN0",
+      "title": "Vibe Coding Isn't the Problem. You Are.",
+      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
+      "channelTitle": "Malewicz",
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/sYlBqbckWN0/mqdefault.jpg"
+    },
+    {
       "videoId": "Kqg3vN1ms2E",
       "title": "How NOT to design - full PRO course",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
@@ -1732,22 +1732,6 @@
       "thumb": "https://i.ytimg.com/vi/0upNxrEAHb0/mqdefault.jpg"
     },
     {
-      "videoId": "OziA3qVH3kg",
-      "title": "Agentic Design Online Jam - May 2026 - Full recording",
-      "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
-      "channelTitle": "Into Design Systems",
-      "publishedAt": "2026-06-21T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/OziA3qVH3kg/mqdefault.jpg"
-    },
-    {
-      "videoId": "W_gbQS78Fuw",
-      "title": "Into Design Systems at Spotify Stockholm",
-      "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
-      "channelTitle": "Into Design Systems",
-      "publishedAt": "2026-06-21T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/W_gbQS78Fuw/mqdefault.jpg"
-    },
-    {
       "videoId": "3BvDDjmzYY8",
       "title": "Claude Fable tested on REAL UX work",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
@@ -1994,6 +1978,22 @@
       "channelTitle": "The Design Project",
       "publishedAt": "2026-05-21T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/u0E3FIDAjec/mqdefault.jpg"
+    },
+    {
+      "videoId": "OziA3qVH3kg",
+      "title": "Agentic Design Online Jam - May 2026 - Full recording",
+      "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
+      "channelTitle": "Into Design Systems",
+      "publishedAt": "2026-05-21T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/OziA3qVH3kg/mqdefault.jpg"
+    },
+    {
+      "videoId": "W_gbQS78Fuw",
+      "title": "Into Design Systems at Spotify Stockholm",
+      "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
+      "channelTitle": "Into Design Systems",
+      "publishedAt": "2026-05-21T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/W_gbQS78Fuw/mqdefault.jpg"
     },
     {
       "videoId": "9EWauSaNU2k",
@@ -2925,7 +2925,7 @@
     },
     {
       "videoId": "tj8fmjQFQHU",
-      "title": "Cómo crear apps nativas para ChatGPT - Proceso completo, UX/UI, dev, monetización y subida a store",
+      "title": "How to Create Native Apps for ChatGPT - Complete Process, UX/UI, Dev, Monetization, and Store Sub...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-21T00:00:00Z",
@@ -3365,7 +3365,7 @@
     },
     {
       "videoId": "M4MNUvv1dW0",
-      "title": "IA, DevTools y MCPs en Chrome - El diseñador del futuro (en Design Systems)",
+      "title": "AI, DevTools, and MCPs in Chrome - The Designer of the Future (in Design Systems)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-21T00:00:00Z",
@@ -3525,7 +3525,7 @@
     },
     {
       "videoId": "YsyXMdpILVQ",
-      "title": "The Swiss Army Knife of MCPs - StormMCP.ai - AI Design",
+      "title": "La navaja suiza de los MCPs - StormMCP.ai - Diseño con IA",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-21T00:00:00Z",
@@ -3853,7 +3853,7 @@
     },
     {
       "videoId": "Lu5XFFVp7a4",
-      "title": "Figma's Config London 2025 from the inside",
+      "title": "Config London 2025 de Figma desde dentro",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-09-21T00:00:00Z",
@@ -4013,7 +4013,7 @@
     },
     {
       "videoId": "HqFkqCVBGVY",
-      "title": "La manera más rápida  de aplicar variables. Turbo Variable",
+      "title": "The fastest way to apply variables. Turbo Variable",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-09-21T00:00:00Z",
@@ -4829,7 +4829,7 @@
     },
     {
       "videoId": "RSEOizzJwwQ",
-      "title": "10x. Variants en Figma mucho más rápidas.",
+      "title": "10x. Faster Figma variants.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-21T00:00:00Z",
@@ -4837,7 +4837,7 @@
     },
     {
       "videoId": "CAmRUyLiDZQ",
-      "title": "Si no lo usas no eres PRO de Figma... Styles & Variables Organizer (Update 2024)",
+      "title": "If you don't use it, you're not a Figma PRO... Styles & Variables Organizer (Update 2024)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-21T00:00:00Z",
@@ -4957,7 +4957,7 @@
     },
     {
       "videoId": "KSXc3rL9iRg",
-      "title": "Free password protection for your Framer portfolio",
+      "title": "Password protection gratis para tu portfolio en Framer",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-21T00:00:00Z",
@@ -5101,7 +5101,7 @@
     },
     {
       "videoId": "ImOGxWTxK5Q",
-      "title": "💰 Parte 2 - ¿El fin de Figma? Cuánto cue$ta tldraw + ChatGPT. Configuración, dibujando con iPAD. IA",
+      "title": "💰 Part 2 - The end of Figma? How much does tldraw + ChatGPT cost. Setup, drawing with iPad. AI",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-21T00:00:00Z",
@@ -5933,7 +5933,7 @@
     },
     {
       "videoId": "OBimJyKhqD4",
-      "title": "8 Figma Variable Tricks You Didn't Know",
+      "title": "8 trucos de variables en Figma que NO conoces",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-09-21T00:00:00Z",
@@ -5941,7 +5941,7 @@
     },
     {
       "videoId": "NdRQ2C1lF8g",
-      "title": "Config2023: Review de todas las novedades de Figma y lo que nadie te ha contado 💸 (Vers. extendida)",
+      "title": "Config2023: Review of all the new features of Figma and what nobody has told you 💸 (Extended vers...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-09-21T00:00:00Z",
@@ -5965,7 +5965,7 @@
     },
     {
       "videoId": "2bjEwy7Hpig",
-      "title": "Export your Figma animations in Lottie format. LottieFiles, the ultimate animation tool.",
+      "title": "Exporta en formato Lottie tus animaciones de Figma. LottieFiles, la termomix de las animaciones",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-09-21T00:00:00Z",
@@ -7165,7 +7165,7 @@
     },
     {
       "videoId": "GihKIiPJJuc",
-      "title": "Documentar componentes obsoletos y relink rápido de instancias con Master y Design System Organizer",
+      "title": "Documenting Deprecated Components and Quickly Relinking Instances with Master and Design System O...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-09-21T00:00:00Z",
@@ -7181,7 +7181,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
+      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-09-21T00:00:00Z",
@@ -7205,7 +7205,7 @@
     },
     {
       "videoId": "BXbCdnuUVGQ",
-      "title": "ClipDrop, magic for your Figma images without needing Photoshop",
+      "title": "ClipDrop, magia en tus imágenes de Figma sin necesidad de Photoshop",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-09-21T00:00:00Z",
@@ -7285,7 +7285,7 @@
     },
     {
       "videoId": "fn72EHgQgrA",
-      "title": "Figma Tokens (Vídeo 3/3) ¿Cómo crear estilos que Figma no permite de forma nativa? Bordes, radius...",
+      "title": "Figma Tokens (Video 3/3) How to create styles that Figma doesn't natively allow? Borders, radius...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-09-21T00:00:00Z",
