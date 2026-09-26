@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T21:00:59Z",
+  "generatedAt": "2026-09-26T03:08:03Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -45,19 +45,11 @@
   "videos": [
     {
       "videoId": "UHupJZO7DTw",
-      "title": "Steal these 4 Figma Motion workflows | Show Your Work",
+      "title": "4 Figma Motion tricks worth stealing | Show Your Work",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-09-25T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/UHupJZO7DTw/mqdefault.jpg"
-    },
-    {
-      "videoId": "1ZfNM7rh0xU",
-      "title": "Principal Designer vs Design Manager? How to Choose Your Next Career Move",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "Nehmat Gereige | AI-Design Professor",
-      "publishedAt": "2026-09-25T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/1ZfNM7rh0xU/mqdefault.jpg"
     },
     {
       "videoId": "iigRk680X40",
@@ -66,6 +58,14 @@
       "channelTitle": "The Design Project",
       "publishedAt": "2026-09-25T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/iigRk680X40/mqdefault.jpg"
+    },
+    {
+      "videoId": "1ZfNM7rh0xU",
+      "title": "Principal Designer vs Design Manager? How to Choose Your Next Career Move",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "Nehmat Gereige | AI-Design Professor",
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/1ZfNM7rh0xU/mqdefault.jpg"
     },
     {
       "videoId": "aTm0TtmMUfg",
@@ -140,14 +140,6 @@
       "thumb": "https://i.ytimg.com/vi/2V3NoUcLV_4/mqdefault.jpg"
     },
     {
-      "videoId": "sfIIAiSgxmw",
-      "title": "How to Connect Figma MCP to ChatGPT & Codex!",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "Nehmat Gereige | AI-Design Professor",
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/sfIIAiSgxmw/mqdefault.jpg"
-    },
-    {
       "videoId": "-wFNWmtRt_k",
       "title": "Grok Bot Made My Product Workflow Feel Simpler",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
@@ -162,6 +154,14 @@
       "channelTitle": "Figma",
       "publishedAt": "2026-09-17T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/2a9G5ziaIWk/mqdefault.jpg"
+    },
+    {
+      "videoId": "sfIIAiSgxmw",
+      "title": "How to Connect Figma MCP to ChatGPT & Codex!",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "Nehmat Gereige | AI-Design Professor",
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/sfIIAiSgxmw/mqdefault.jpg"
     },
     {
       "videoId": "r-MPiu0E4W4",
@@ -189,7 +189,7 @@
     },
     {
       "videoId": "BcomY53jqpo",
-      "title": "Global Visual Artist & Designer Aitana Picó Shares her 14 Design Inspirations I Source Material",
+      "title": "14 Designs That Inspired Creative Technologist & Designer Aitana Picó I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-09-15T00:00:00Z",
@@ -204,20 +204,20 @@
       "thumb": "https://i.ytimg.com/vi/XBwt2g3Ny5M/mqdefault.jpg"
     },
     {
-      "videoId": "soidJfQaL5g",
-      "title": "How to Turn a Figma Design Into an Interactive Prototype with Figma Make!",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "Nehmat Gereige | AI-Design Professor",
-      "publishedAt": "2026-09-15T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/soidJfQaL5g/mqdefault.jpg"
-    },
-    {
       "videoId": "Ni34Y2uSIF4",
       "title": "Removing website graphics boosts conversion?",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
       "channelTitle": "Malewicz",
       "publishedAt": "2026-09-15T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/Ni34Y2uSIF4/mqdefault.jpg"
+    },
+    {
+      "videoId": "soidJfQaL5g",
+      "title": "How to Turn a Figma Design Into an Interactive Prototype with Figma Make!",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "Nehmat Gereige | AI-Design Professor",
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/soidJfQaL5g/mqdefault.jpg"
     },
     {
       "videoId": "Q8OVk0n4K1c",
@@ -3397,7 +3397,7 @@
     },
     {
       "videoId": "M4MNUvv1dW0",
-      "title": "AI, DevTools, and MCPs in Chrome - The Designer of the Future (in Design Systems)",
+      "title": "IA, DevTools y MCPs en Chrome - El diseñador del futuro (en Design Systems)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-26T00:00:00Z",
@@ -3541,7 +3541,7 @@
     },
     {
       "videoId": "sxTQ7utiTYg",
-      "title": "Clone websites in 1 second and scale with AI in Figma Make - New vibe coding workflow",
+      "title": "Clona webs en 1 segundo y amplía con IA en Figma Make - Nuevo flujo de vibe coding",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-26T00:00:00Z",
@@ -3901,7 +3901,7 @@
     },
     {
       "videoId": "Lu5XFFVp7a4",
-      "title": "Figma's Config London 2025 from the inside",
+      "title": "Config London 2025 de Figma desde dentro",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-09-26T00:00:00Z",
@@ -3917,7 +3917,7 @@
     },
     {
       "videoId": "u5kJaHDOZME",
-      "title": "Design Systems migration between accounts. Teams and projects intact.",
+      "title": "Migración de Design Systems entre cuentas. Equipos y proyectos intactos",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-09-26T00:00:00Z",
@@ -3989,7 +3989,7 @@
     },
     {
       "videoId": "26_zSrBlH9s",
-      "title": "Taller de accesibilidad en tiempo real con Storybook - Figma.camp - Refresh",
+      "title": "Real-time accessibility workshop with Storybook - Figma.camp - Refresh",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-09-26T00:00:00Z",
@@ -4093,7 +4093,7 @@
     },
     {
       "videoId": "x4prtZEwg60",
-      "title": "Aplica tus modos de variables de manera masiva en Figma. ¡En todo tu “file” a la vez!",
+      "title": "Apply your variable modes in bulk in Figma. To your entire file at once!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-09-26T00:00:00Z",
@@ -4852,14 +4852,6 @@
       "thumb": "https://i.ytimg.com/vi/tkL8YeVOqWY/mqdefault.jpg"
     },
     {
-      "videoId": "pMYEHsWHLbg",
-      "title": "Figma Secrets: UNBELIEVABLE Text Entry Trick with Variables and Conditional Logic! 😱",
-      "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
-      "channelTitle": "UI Collective",
-      "publishedAt": "2024-09-26T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/pMYEHsWHLbg/mqdefault.jpg"
-    },
-    {
       "videoId": "Sc3e9QtHczc",
       "title": "Multi-tematizado ¡infinitooo! - Hackea el límite de 4 modos de variables de Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
@@ -4885,7 +4877,7 @@
     },
     {
       "videoId": "kVGnhq4_pWg",
-      "title": "Version control specifically for Figma variables. Incredible and super useful.",
+      "title": "Control de versiones solo de variables en Figma. Increíble y súper útil.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-26T00:00:00Z",
@@ -4949,7 +4941,7 @@
     },
     {
       "videoId": "rxjL3QW3-cM",
-      "title": "Unboxing + configuración de Figma Creator Micro Keyboard - Review",
+      "title": "Unboxing + Figma Creator Micro Keyboard Setup - Review",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-26T00:00:00Z",
@@ -5117,7 +5109,7 @@
     },
     {
       "videoId": "DyD8O2rl6lY",
-      "title": "6 new features in Figma variables: Strokes, grids, strings...",
+      "title": "6 novedades en las variables de Figma. Strokes, grids, strings...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-09-26T00:00:00Z",
@@ -5666,6 +5658,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2024-09-26T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/wPECbPCVHgA/mqdefault.jpg"
+    },
+    {
+      "videoId": "pMYEHsWHLbg",
+      "title": "Figma Secrets: UNBELIEVABLE Text Entry Trick with Variables and Conditional Logic! 😱",
+      "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
+      "channelTitle": "UI Collective",
+      "publishedAt": "2023-09-26T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/pMYEHsWHLbg/mqdefault.jpg"
     },
     {
       "videoId": "A8cmvTt4bWM",
@@ -7197,7 +7197,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
+      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-09-26T00:00:00Z",
@@ -7229,7 +7229,7 @@
     },
     {
       "videoId": "juhU1a2hHjA",
-      "title": "Control your component sizes in Figma using min/max-width and min/max-height",
+      "title": "Controla el tamaño de tus componentes en Figma con min/max-width y min/max-height",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-09-26T00:00:00Z",
@@ -7277,7 +7277,7 @@
     },
     {
       "videoId": "WQeJDsBgY1M",
-      "title": "Linting, cómo evitar inconsistencias y errores en tus files y componentes de Figma",
+      "title": "Linting: How to avoid inconsistencies and errors in your Figma files and components",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-09-26T00:00:00Z",
