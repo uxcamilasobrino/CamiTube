@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T03:26:49Z",
+  "generatedAt": "2026-10-03T10:59:37Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -45,7 +45,7 @@
   "videos": [
     {
       "videoId": "1lnuBH7CbEY",
-      "title": "Figma Release Notes: September 2026 Edition",
+      "title": "Release Notes 2026: September Edition | Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-02T00:00:00Z",
@@ -84,22 +84,6 @@
       "thumb": "https://i.ytimg.com/vi/ljJuOxTsrtY/mqdefault.jpg"
     },
     {
-      "videoId": "xi5JmpyaDgw",
-      "title": "Refresh · Is design dead? · AI, Design Systems and the Design Engineer role",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-09-30T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/xi5JmpyaDgw/mqdefault.jpg"
-    },
-    {
-      "videoId": "j5yRBcPS96I",
-      "title": "The New Design System Metrics",
-      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
-      "channelTitle": "Marta Conde",
-      "publishedAt": "2026-09-30T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/j5yRBcPS96I/mqdefault.jpg"
-    },
-    {
       "videoId": "QKJKAvmzOrw",
       "title": "10 Things That Inspire Creative Director & Designer, Manon Macasaet I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -116,12 +100,28 @@
       "thumb": "https://i.ytimg.com/vi/y9lZ5GMXNyU/mqdefault.jpg"
     },
     {
+      "videoId": "xi5JmpyaDgw",
+      "title": "Refresh · Is design dead? · AI, Design Systems and the Design Engineer role",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/xi5JmpyaDgw/mqdefault.jpg"
+    },
+    {
       "videoId": "vRzEHuqber8",
       "title": "How Product Designers Use AI Without Losing Their Craft | Keri Plasse Design Architect!",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "Nehmat Gereige | AI-Design Professor",
       "publishedAt": "2026-09-29T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/vRzEHuqber8/mqdefault.jpg"
+    },
+    {
+      "videoId": "j5yRBcPS96I",
+      "title": "The New Design System Metrics",
+      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
+      "channelTitle": "Marta Conde",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/j5yRBcPS96I/mqdefault.jpg"
     },
     {
       "videoId": "UHupJZO7DTw",
@@ -292,14 +292,6 @@
       "thumb": "https://i.ytimg.com/vi/-wFNWmtRt_k/mqdefault.jpg"
     },
     {
-      "videoId": "DfQhO-VUDg8",
-      "title": "Teaching AI Your Design System | Victor Nystad, Equinor",
-      "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
-      "channelTitle": "Into Design Systems",
-      "publishedAt": "2026-09-19T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/DfQhO-VUDg8/mqdefault.jpg"
-    },
-    {
       "videoId": "Ni34Y2uSIF4",
       "title": "Removing website graphics boosts conversion?",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
@@ -354,6 +346,14 @@
       "channelTitle": "The Design Project",
       "publishedAt": "2026-09-12T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/93BXNU6XewA/mqdefault.jpg"
+    },
+    {
+      "videoId": "DfQhO-VUDg8",
+      "title": "Teaching AI Your Design System | Victor Nystad, Equinor",
+      "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
+      "channelTitle": "Into Design Systems",
+      "publishedAt": "2026-09-12T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/DfQhO-VUDg8/mqdefault.jpg"
     },
     {
       "videoId": "tfAnZ4E2YRE",
@@ -1620,14 +1620,6 @@
       "thumb": "https://i.ytimg.com/vi/F8Za6kpFGfI/mqdefault.jpg"
     },
     {
-      "videoId": "zyZJalrhCN8",
-      "title": "Refresh - Papallona Accessibility, with Eli Vives, WCAG 2.2 for UX/UI Designers in Figma",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-07-03T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/zyZJalrhCN8/mqdefault.jpg"
-    },
-    {
       "videoId": "C-Tb8G7RjFU",
       "title": "Figma Config 2026 Updates | Code Layers, Motion, Weave, Shaders, Plugins & More!",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
@@ -1669,7 +1661,7 @@
     },
     {
       "videoId": "9c1ZlWBpKrM",
-      "title": "From Figma to Code: Tokens, Documentation, and AI with Supernova",
+      "title": "De Figma a código: tokens, documentación e IA con Supernova",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-07-03T00:00:00Z",
@@ -1898,6 +1890,14 @@
       "channelTitle": "UI Collective",
       "publishedAt": "2026-06-03T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/j_ZPV10bu54/mqdefault.jpg"
+    },
+    {
+      "videoId": "zyZJalrhCN8",
+      "title": "Refresh - Papallona Accessibility, with Eli Vives, WCAG 2.2 for UX/UI Designers in Figma",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-06-03T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/zyZJalrhCN8/mqdefault.jpg"
     },
     {
       "videoId": "QT2fAyywPvw",
@@ -2138,14 +2138,6 @@
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-05-03T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/6WXJ4L9zigk/mqdefault.jpg"
-    },
-    {
-      "videoId": "p8q4ZO81VCM",
-      "title": "Clone your web to Figma without paying token$. The new Figma MCP and… 1 TRICK",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-05-03T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/p8q4ZO81VCM/mqdefault.jpg"
     },
     {
       "videoId": "gNOiMNgpAdI",
@@ -2514,6 +2506,14 @@
       "channelTitle": "UI Collective",
       "publishedAt": "2026-04-03T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/TKScxZtESzs/mqdefault.jpg"
+    },
+    {
+      "videoId": "p8q4ZO81VCM",
+      "title": "Clone your web to Figma without paying token$. The new Figma MCP and… 1 TRICK",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-04-03T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/p8q4ZO81VCM/mqdefault.jpg"
     },
     {
       "videoId": "-fhQwXfd9jU",
@@ -3877,7 +3877,7 @@
     },
     {
       "videoId": "kh0TFjxajaM",
-      "title": "Cap.2 - IA para diseñadores. MCPs desde 0: conectando tu diseño y tu IA ¡con todo!",
+      "title": "Chapter 2 - AI for Designers. MCPs from the Ground Up: Connecting Your Design and AI to Everything!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-03T00:00:00Z",
@@ -3941,7 +3941,7 @@
     },
     {
       "videoId": "u5kJaHDOZME",
-      "title": "Design Systems migration between accounts. Teams and projects intact.",
+      "title": "Migración de Design Systems entre cuentas. Equipos y proyectos intactos",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-03T00:00:00Z",
@@ -3981,7 +3981,7 @@
     },
     {
       "videoId": "TzI-tfa65nQ",
-      "title": "Will Paper.design be the tool that dethrones Figma?",
+      "title": "¿Será Paper.design la herramienta que destrone a Figma?",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-03T00:00:00Z",
@@ -4013,7 +4013,7 @@
     },
     {
       "videoId": "26_zSrBlH9s",
-      "title": "Taller de accesibilidad en tiempo real con Storybook - Figma.camp - Refresh",
+      "title": "Real-time accessibility workshop with Storybook - Figma.camp - Refresh",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-03T00:00:00Z",
@@ -4101,7 +4101,7 @@
     },
     {
       "videoId": "oBsNb-wuqso",
-      "title": "Infinite variable modes in Figma without paying €75. More than 40 per collection ;)",
+      "title": "Modos de variables infinitos en Figma sin pagar 75€. Más de 40 por Collection ;)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-03T00:00:00Z",
@@ -4909,7 +4909,7 @@
     },
     {
       "videoId": "kVGnhq4_pWg",
-      "title": "Version control specifically for Figma variables. Incredible and super useful.",
+      "title": "Control de versiones solo de variables en Figma. Increíble y súper útil.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-03T00:00:00Z",
@@ -5077,7 +5077,7 @@
     },
     {
       "videoId": "PpQ_JZWsIJ8",
-      "title": "Mastering Focus States in Figma: PRO Tips! 🔥",
+      "title": "Trucos para dominar el focus en Figma ¡Nivel PRO! 🔥",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-03T00:00:00Z",
@@ -5133,7 +5133,7 @@
     },
     {
       "videoId": "LeAYZn-Vb3w",
-      "title": "How to merge multiple local components into a single remote library in Figma without losing insta...",
+      "title": "Cómo unir varios componentes locales y crear 1 librería remota única en Figma, sin perder instancias",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-03T00:00:00Z",
@@ -5165,7 +5165,7 @@
     },
     {
       "videoId": "ImOGxWTxK5Q",
-      "title": "💰 Parte 2 - ¿El fin de Figma? Cuánto cue$ta tldraw + ChatGPT. Configuración, dibujando con iPAD. IA",
+      "title": "💰 Part 2 - The end of Figma? How much does tldraw + ChatGPT cost. Setup, drawing with iPad. AI",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-03T00:00:00Z",
@@ -5213,7 +5213,7 @@
     },
     {
       "videoId": "qLKOLqWZICk",
-      "title": "🔥 🚀 😱 Document and organize your Figma variables in 1 second",
+      "title": "🔥 🚀 😱 Documenta y organiza tus variables de Figma en 1 segundo",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-03T00:00:00Z",
@@ -5933,7 +5933,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Fixing the \"detach\" bug in Figma color variables",
+      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-03T00:00:00Z",
@@ -7197,7 +7197,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
+      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-03T00:00:00Z",
