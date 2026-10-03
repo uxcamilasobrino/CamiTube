@@ -198,12 +198,24 @@ main {
   letter-spacing: 0.2px;
 }
 
-.badge-watched {
-  display: none;
+.badge-duration {
   position: absolute;
   bottom: 8px;
   right: 8px;
   background: rgba(23, 23, 20, 0.85);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 4px;
+  letter-spacing: 0.2px;
+}
+
+.badge-status {
+  display: none;
+  position: absolute;
+  top: 8px;
+  right: 8px;
   color: #fff;
   font-size: 11px;
   font-weight: 600;
@@ -212,8 +224,25 @@ main {
   letter-spacing: 0.2px;
 }
 
-.card.watched .thumb-wrap img { opacity: 0.5; }
-.card.watched .badge-watched { display: block; }
+.card.status-watched .thumb-wrap img { opacity: 0.5; }
+.card.status-watched .badge-status {
+  display: block;
+  background: rgba(23, 23, 20, 0.85);
+}
+
+.card.status-watching .badge-status {
+  display: block;
+  background: var(--accent);
+}
+
+.progress-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: var(--accent);
+}
 
 .card-title {
   font-family: var(--serif);

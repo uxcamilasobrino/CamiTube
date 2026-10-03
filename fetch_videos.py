@@ -31,17 +31,20 @@ def load_channel_handles():
         return json.load(f)
 
 
-def check_members_only(video_id):
+def refine_video(video_id):
     """
-    Does a precise, single-video check of membership status. Slower than the
-    flat channel scrape (one real request), so this is only used sparingly,
-    for recent videos.
+    Does a precise, single-video check (membership status + exact duration).
+    Slower than the flat channel scrape (one real request), so this is only
+    used sparingly, for recent videos.
     """
     ydl_opts = {"quiet": True, "no_warnings": True, "skip_download": True}
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(f"https://www.youtube.com/watch?v={video_id}", download=False)
-        return info.get("availability") in MEMBERS_ONLY_AVAILABILITY
+        return {
+            "membersOnly": info.get("availability") in MEMBERS_ONLY_AVAILABILITY,
+            "duration": info.get("duration"),
+        }
     except Exception as exc:
         print(f"  recheck failed for {video_id}: {exc}", file=sys.stderr)
         return None
@@ -92,6 +95,7 @@ def fetch_channel(handle):
             "publishedAt": published,
             "thumb": f"https://i.ytimg.com/vi/{e['id']}/mqdefault.jpg",
             "membersOnly": members_only,
+            "duration": e.get("duration"),  # seconds, may be null if YouTube didn't expose it here
         })
 
     channel_meta = {"channelId": channel_id, "handle": handle, "title": channel_title}
@@ -108,9 +112,11 @@ def fetch_channel(handle):
         published_dt = datetime.strptime(v["publishedAt"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
         if published_dt < cutoff:
             continue
-        accurate = check_members_only(v["videoId"])
+        accurate = refine_video(v["videoId"])
         if accurate is not None:
-            v["membersOnly"] = accurate
+            v["membersOnly"] = accurate["membersOnly"]
+            if accurate["duration"] is not None:
+                v["duration"] = accurate["duration"]
         rechecked += 1
 
     return channel_meta, videos
