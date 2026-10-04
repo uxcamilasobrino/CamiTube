@@ -25,10 +25,25 @@ MEMBERS_ONLY_AVAILABILITY = {"subscriber_only", "premium_only"}
 RECHECK_WINDOW_DAYS = 14
 RECHECK_MAX_PER_CHANNEL = 20
 
+# Older videos that still have no duration get filled in gradually: each run
+# looks up a small batch per channel and remembers the result, so coverage
+# grows run after run without making any single run slow.
+BACKFILL_MAX_PER_CHANNEL = 20
+
 
 def load_channel_handles():
     with open("channels.json", "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def load_cache():
+    """Reads the previous videos.json so known durations aren't looked up twice."""
+    try:
+        with open("videos.json", "r", encoding="utf-8") as f:
+            old = json.load(f)
+        return {v["videoId"]: v for v in old.get("videos", []) if v.get("videoId")}
+    except Exception:
+        return {}
 
 
 def refine_video(video_id):
@@ -50,7 +65,7 @@ def refine_video(video_id):
         return None
 
 
-def fetch_channel(handle):
+def fetch_channel(handle, cache):
     url = f"https://www.youtube.com/{handle}/videos"
     ydl_opts = {
         "extract_flat": "in_playlist",
@@ -96,41 +111,65 @@ def fetch_channel(handle):
             "thumb": f"https://i.ytimg.com/vi/{e['id']}/mqdefault.jpg",
             "membersOnly": members_only,
             "duration": e.get("duration"),  # seconds, may be null if YouTube didn't expose it here
+            "refined": False,
         })
+
+    # Reuse what earlier runs already worked out
+    for v in videos:
+        old = cache.get(v["videoId"])
+        if old and old.get("refined"):
+            v["refined"] = True
+            v["membersOnly"] = old.get("membersOnly", v["membersOnly"])
+            if v["duration"] is None:
+                v["duration"] = old.get("duration")
 
     channel_meta = {"channelId": channel_id, "handle": handle, "title": channel_title}
 
-    # Precisely recheck membership status for recent videos only, so the
-    # "Latest videos" tab is accurate without slowing down full-history scraping.
+    # 1) Always recheck recent videos (membership can change, and these are
+    #    the ones shown in "Latest videos").
     cutoff = datetime.now(timezone.utc) - timedelta(days=RECHECK_WINDOW_DAYS)
-    rechecked = 0
+    recent = []
     for v in videos:
-        if rechecked >= RECHECK_MAX_PER_CHANNEL:
-            break
         if not v["publishedAt"]:
             continue
         published_dt = datetime.strptime(v["publishedAt"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-        if published_dt < cutoff:
-            continue
+        if published_dt >= cutoff:
+            recent.append(v)
+
+    # 2) Then backfill older videos that still have no duration.
+    recent_ids = {v["videoId"] for v in recent}
+    backfill = [
+        v for v in videos
+        if v["videoId"] not in recent_ids and v["duration"] is None and not v["refined"]
+    ][:BACKFILL_MAX_PER_CHANNEL]
+
+    failures = 0
+    for v in recent[:RECHECK_MAX_PER_CHANNEL] + backfill:
         accurate = refine_video(v["videoId"])
-        if accurate is not None:
-            v["membersOnly"] = accurate["membersOnly"]
-            if accurate["duration"] is not None:
-                v["duration"] = accurate["duration"]
-        rechecked += 1
+        if accurate is None:
+            failures += 1
+            continue
+        v["membersOnly"] = accurate["membersOnly"]
+        if accurate["duration"] is not None:
+            v["duration"] = accurate["duration"]
+        v["refined"] = True
+
+    if failures:
+        print(f"  {handle}: {failures} lookups failed (will retry next run)", file=sys.stderr)
 
     return channel_meta, videos
 
 
 def main():
     handles = load_channel_handles()
+    cache = load_cache()
     all_channels = []
     all_videos = []
     had_failure = False
 
     for handle in handles:
         try:
-            channel_meta, videos = fetch_channel(handle)
+            channel_meta, videos = fetch_channel(handle, cache)
             all_channels.append(channel_meta)
             all_videos.extend(videos)
             print(f"OK  {handle}: {len(videos)} videos")
