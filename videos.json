@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:37:24Z",
+  "generatedAt": "2026-10-06T04:27:17Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -45,10 +45,10 @@
   "videos": [
     {
       "videoId": "j-DQtPL_x3o",
-      "title": "14 Unexpected Design References that Inspire Chase Rutherford I Source Material",
+      "title": "Chase Rutherford Breaks Down 14 of His Design Inspirations I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-05T22:00:00Z",
+      "publishedAt": "2026-10-05T21:00:00Z",
       "thumb": "https://i.ytimg.com/vi/j-DQtPL_x3o/mqdefault.jpg"
     },
     {
@@ -56,7 +56,7 @@
       "title": "How faces on websites DESTROY conversion",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
       "channelTitle": "Malewicz",
-      "publishedAt": "2026-10-05T16:00:00Z",
+      "publishedAt": "2026-10-05T15:00:00Z",
       "thumb": "https://i.ytimg.com/vi/mtGZfx7gWMU/mqdefault.jpg"
     },
     {
@@ -64,7 +64,7 @@
       "title": "How to Design with Claude + Figma | Complete AI-Native Workflow",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-10-05T13:00:00Z",
+      "publishedAt": "2026-10-05T12:00:00Z",
       "thumb": "https://i.ytimg.com/vi/YPKAjTDz7Jc/mqdefault.jpg"
     },
     {
@@ -72,7 +72,7 @@
       "title": "Your next phone will be foldable (and you don't know it yet)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-10-05T11:00:00Z",
+      "publishedAt": "2026-10-05T10:00:00Z",
       "thumb": "https://i.ytimg.com/vi/6geD-droh0Q/mqdefault.jpg"
     },
     {
@@ -164,20 +164,20 @@
       "thumb": "https://i.ytimg.com/vi/UHupJZO7DTw/mqdefault.jpg"
     },
     {
-      "videoId": "1ZfNM7rh0xU",
-      "title": "Principal Designer vs Design Manager? How to Choose Your Next Career Move",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-09-25T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/1ZfNM7rh0xU/mqdefault.jpg"
-    },
-    {
       "videoId": "iigRk680X40",
       "title": "How PostHog Is Designing for AI Agents",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
       "publishedAt": "2026-09-25T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/iigRk680X40/mqdefault.jpg"
+    },
+    {
+      "videoId": "1ZfNM7rh0xU",
+      "title": "Principal Designer vs Design Manager? How to Choose Your Next Career Move",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/1ZfNM7rh0xU/mqdefault.jpg"
     },
     {
       "videoId": "aTm0TtmMUfg",
@@ -189,7 +189,7 @@
     },
     {
       "videoId": "mbzghKe-Fnw",
-      "title": "How to Use ChatGPT for AI Native Product Design!",
+      "title": "How to Use ChatGPT (Codex) for AI Native Product Design | Complete AI Design workflow!",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-09-23T00:00:00Z",
@@ -3197,7 +3197,7 @@
     },
     {
       "videoId": "YVwo0Ka9XRw",
-      "title": "recreo x A Coruña - Cómo seguir creando cuando todo es generativo",
+      "title": "recreo x A Coruña - How to keep creating when everything is generative",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-06T00:00:00Z",
@@ -4029,7 +4029,7 @@
     },
     {
       "videoId": "26_zSrBlH9s",
-      "title": "Taller de accesibilidad en tiempo real con Storybook - Figma.camp - Refresh",
+      "title": "Real-time accessibility workshop with Storybook - Figma.camp - Refresh",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-06T00:00:00Z",
@@ -4101,7 +4101,7 @@
     },
     {
       "videoId": "HqFkqCVBGVY",
-      "title": "The fastest way to apply variables. Turbo Variable",
+      "title": "La manera más rápida  de aplicar variables. Turbo Variable",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-06T00:00:00Z",
@@ -5189,7 +5189,7 @@
     },
     {
       "videoId": "ImOGxWTxK5Q",
-      "title": "💰 Parte 2 - ¿El fin de Figma? Cuánto cue$ta tldraw + ChatGPT. Configuración, dibujando con iPAD. IA",
+      "title": "💰 Part 2 - The end of Figma? How much does tldraw + ChatGPT cost. Setup, drawing with iPad. AI",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-06T00:00:00Z",
