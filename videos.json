@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:12:41Z",
+  "generatedAt": "2026-10-13T00:03:38Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -44,6 +44,14 @@
   ],
   "videos": [
     {
+      "videoId": "o52a9syFc40",
+      "title": "Designer & Creative Director Ben Ganz Shares His 11 Biggest Design Inspirations I Source Material",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-10-12T18:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/o52a9syFc40/mqdefault.jpg"
+    },
+    {
       "videoId": "dWEvzEkg9hM",
       "title": "AI + Design Systems: The Honest Truth Nobody’s Telling You",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -68,14 +76,6 @@
       "thumb": "https://i.ytimg.com/vi/WlhBQL317uM/mqdefault.jpg"
     },
     {
-      "videoId": "0JXV6J357VE",
-      "title": "How to Bring AI Agents into Your Product Workflow",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-10-10T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/0JXV6J357VE/mqdefault.jpg"
-    },
-    {
       "videoId": "IjtOndtmC-Q",
       "title": "Figma Motion: Build a better motion design workflow | Show Your Work",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -92,11 +92,19 @@
       "thumb": "https://i.ytimg.com/vi/jcUlNPjuMCY/mqdefault.jpg"
     },
     {
+      "videoId": "0JXV6J357VE",
+      "title": "How to Bring AI Agents into Your Product Workflow",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/0JXV6J357VE/mqdefault.jpg"
+    },
+    {
       "videoId": "MidLjQLejyE",
       "title": "Add guidelines to your Figma library | Teach Figma's agent your design system",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-08T00:00:00Z",
+      "publishedAt": "2026-10-07T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/MidLjQLejyE/mqdefault.jpg"
     },
     {
@@ -104,24 +112,16 @@
       "title": "Find your flow state with the Figma agent",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-08T00:00:00Z",
+      "publishedAt": "2026-10-07T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/xTkrKqbsDec/mqdefault.jpg"
     },
     {
       "videoId": "j-DQtPL_x3o",
-      "title": "14 Unexpected Design References that Inspire Chase Rutherford I Source Material",
+      "title": "Chase Rutherford Breaks Down 14 of His Design Inspirations I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-07T00:00:00Z",
+      "publishedAt": "2026-10-06T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/j-DQtPL_x3o/mqdefault.jpg"
-    },
-    {
-      "videoId": "mtGZfx7gWMU",
-      "title": "How faces on websites DESTROY conversion",
-      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
-      "channelTitle": "Malewicz",
-      "publishedAt": "2026-10-07T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/mtGZfx7gWMU/mqdefault.jpg"
     },
     {
       "videoId": "6geD-droh0Q",
@@ -140,11 +140,19 @@
       "thumb": "https://i.ytimg.com/vi/YPKAjTDz7Jc/mqdefault.jpg"
     },
     {
+      "videoId": "mtGZfx7gWMU",
+      "title": "How faces on websites DESTROY conversion",
+      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
+      "channelTitle": "Malewicz",
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/mtGZfx7gWMU/mqdefault.jpg"
+    },
+    {
       "videoId": "1lnuBH7CbEY",
       "title": "Release Notes 2026: September Edition | Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-03T00:00:00Z",
+      "publishedAt": "2026-10-02T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/1lnuBH7CbEY/mqdefault.jpg"
     },
     {
@@ -152,7 +160,7 @@
       "title": "A CTO’s Honest Take on AI and the Future of Product Teams",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
-      "publishedAt": "2026-10-03T00:00:00Z",
+      "publishedAt": "2026-10-02T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/4NcxD3f6qLA/mqdefault.jpg"
     },
     {
@@ -160,7 +168,7 @@
       "title": "Figma Motion basics: Custom animation styles",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-02T00:00:00Z",
+      "publishedAt": "2026-10-01T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/HhRwVigdDIk/mqdefault.jpg"
     },
     {
@@ -170,22 +178,6 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-10-01T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/Q8OVk0n4K1c/mqdefault.jpg"
-    },
-    {
-      "videoId": "QKJKAvmzOrw",
-      "title": "10 Things That Inspire Creative Director & Designer, Manon Macasaet I Source Material",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-09-30T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/QKJKAvmzOrw/mqdefault.jpg"
-    },
-    {
-      "videoId": "y9lZ5GMXNyU",
-      "title": "Figma for Edu: Prototyping with animations in Figma",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-09-30T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/y9lZ5GMXNyU/mqdefault.jpg"
     },
     {
       "videoId": "ljJuOxTsrtY",
@@ -212,20 +204,28 @@
       "thumb": "https://i.ytimg.com/vi/j5yRBcPS96I/mqdefault.jpg"
     },
     {
+      "videoId": "QKJKAvmzOrw",
+      "title": "10 Things That Inspire Creative Director & Designer, Manon Macasaet I Source Material",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/QKJKAvmzOrw/mqdefault.jpg"
+    },
+    {
+      "videoId": "y9lZ5GMXNyU",
+      "title": "Figma for Edu: Prototyping with animations in Figma",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/y9lZ5GMXNyU/mqdefault.jpg"
+    },
+    {
       "videoId": "UHupJZO7DTw",
       "title": "4 Figma Motion tricks worth stealing | Show Your Work",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-09-29T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/UHupJZO7DTw/mqdefault.jpg"
-    },
-    {
-      "videoId": "Upx_82SYDGc",
-      "title": "9 Designs that Inspired BRAT's Art Director, Brent David Freaney I Source Material",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-09-29T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Upx_82SYDGc/mqdefault.jpg"
     },
     {
       "videoId": "vRzEHuqber8",
@@ -268,6 +268,14 @@
       "thumb": "https://i.ytimg.com/vi/iigRk680X40/mqdefault.jpg"
     },
     {
+      "videoId": "Upx_82SYDGc",
+      "title": "9 Designs that Inspired BRAT's Art Director, Brent David Freaney I Source Material",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Upx_82SYDGc/mqdefault.jpg"
+    },
+    {
       "videoId": "spMhSWAmduw",
       "title": "Figma Motion basics: Use shaders in your animations",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -282,14 +290,6 @@
       "channelTitle": "Figma",
       "publishedAt": "2026-09-22T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/2a9G5ziaIWk/mqdefault.jpg"
-    },
-    {
-      "videoId": "BcomY53jqpo",
-      "title": "14 Designs That Inspired Digital Designer Aitana Picó's Unique Style I Source Material",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-09-22T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/BcomY53jqpo/mqdefault.jpg"
     },
     {
       "videoId": "j6rfwigv_1Y",
@@ -372,12 +372,12 @@
       "thumb": "https://i.ytimg.com/vi/w2mNSOWiZbU/mqdefault.jpg"
     },
     {
-      "videoId": "Ni34Y2uSIF4",
-      "title": "Removing website graphics boosts conversion?",
-      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
-      "channelTitle": "Malewicz",
-      "publishedAt": "2026-09-22T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Ni34Y2uSIF4/mqdefault.jpg"
+      "videoId": "BcomY53jqpo",
+      "title": "14 Designs That Inspired Digital Designer Aitana Picó's Unique Style I Source Material",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/BcomY53jqpo/mqdefault.jpg"
     },
     {
       "videoId": "XBwt2g3Ny5M",
@@ -394,6 +394,14 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-09-15T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/soidJfQaL5g/mqdefault.jpg"
+    },
+    {
+      "videoId": "Ni34Y2uSIF4",
+      "title": "Removing website graphics boosts conversion?",
+      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
+      "channelTitle": "Malewicz",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Ni34Y2uSIF4/mqdefault.jpg"
     },
     {
       "videoId": "cUXna9ZAfSI",
@@ -748,14 +756,6 @@
       "thumb": "https://i.ytimg.com/vi/dlMM7M5gTOc/mqdefault.jpg"
     },
     {
-      "videoId": "TGPIeyq3szU",
-      "title": "Figma for Edu: Building with components workshop",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-08-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/TGPIeyq3szU/mqdefault.jpg"
-    },
-    {
       "videoId": "VezxOhvoXqU",
       "title": "Train Claude on Your Design System (Advanced Workflow)",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -906,6 +906,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-08-13T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/Kqg3vN1ms2E/mqdefault.jpg"
+    },
+    {
+      "videoId": "TGPIeyq3szU",
+      "title": "Figma for Edu: Building with components workshop",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-07-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/TGPIeyq3szU/mqdefault.jpg"
     },
     {
       "videoId": "WGZ38oeoBtU",
@@ -2068,14 +2076,6 @@
       "thumb": "https://i.ytimg.com/vi/9EWauSaNU2k/mqdefault.jpg"
     },
     {
-      "videoId": "HQpQhmJi22s",
-      "title": "Signs the AI bubble is ready to POP",
-      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
-      "channelTitle": "Malewicz",
-      "publishedAt": "2026-06-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/HQpQhmJi22s/mqdefault.jpg"
-    },
-    {
       "videoId": "11mdb7lLclM",
       "title": "Release Notes 2026: May Edition | Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -2314,6 +2314,14 @@
       "channelTitle": "The Design Project",
       "publishedAt": "2026-05-13T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/kP6Dj1Db_EU/mqdefault.jpg"
+    },
+    {
+      "videoId": "HQpQhmJi22s",
+      "title": "Signs the AI bubble is ready to POP",
+      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
+      "channelTitle": "Malewicz",
+      "publishedAt": "2026-05-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/HQpQhmJi22s/mqdefault.jpg"
     },
     {
       "videoId": "aLa-Anq4nuc",
@@ -2836,14 +2844,6 @@
       "thumb": "https://i.ytimg.com/vi/v28A93L0tVg/mqdefault.jpg"
     },
     {
-      "videoId": "VWmFx_DhbfE",
-      "title": "Refresh · ¿Cómo la IA está transformando el rol de diseñador?",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-03-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/VWmFx_DhbfE/mqdefault.jpg"
-    },
-    {
       "videoId": "8eP2FYiTq3E",
       "title": "Will AI Replace UX Designers? How to Stay Relevant in 2026 | AI First Designer",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
@@ -3076,6 +3076,14 @@
       "thumb": "https://i.ytimg.com/vi/5lUMA_WRzNw/mqdefault.jpg"
     },
     {
+      "videoId": "VWmFx_DhbfE",
+      "title": "Refresh · ¿Cómo la IA está transformando el rol de diseñador?",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-02-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/VWmFx_DhbfE/mqdefault.jpg"
+    },
+    {
       "videoId": "Ieanl2rmqkg",
       "title": "Is Figma obsolete? Pencil.dev and MagicPath are changing the game.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
@@ -3114,14 +3122,6 @@
       "channelTitle": "The Design Project",
       "publishedAt": "2026-02-13T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/7R3lnGToAis/mqdefault.jpg"
-    },
-    {
-      "videoId": "rRf3Ft7Pyvw",
-      "title": "Figma is Dead (almost)",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-02-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/rRf3Ft7Pyvw/mqdefault.jpg"
     },
     {
       "videoId": "_PJLefMZwko",
@@ -3180,22 +3180,6 @@
       "thumb": "https://i.ytimg.com/vi/0lSS7m3Lh0g/mqdefault.jpg"
     },
     {
-      "videoId": "iq0iTIKbWKU",
-      "title": "How great teams really work | Figma for Edu Early Career Week",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-01-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/iq0iTIKbWKU/mqdefault.jpg"
-    },
-    {
-      "videoId": "6dEqxMwCSgY",
-      "title": "Build a portfolio that tells your story | Figma for Edu Early Career Week",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-01-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/6dEqxMwCSgY/mqdefault.jpg"
-    },
-    {
       "videoId": "rYzstFEY0t8",
       "title": "Build Design Tokens & Figma Variables with AI",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -3213,7 +3197,7 @@
     },
     {
       "videoId": "tj8fmjQFQHU",
-      "title": "Cómo crear apps nativas para ChatGPT - Proceso completo, UX/UI, dev, monetización y subida a store",
+      "title": "How to Create Native Apps for ChatGPT - Complete Process, UX/UI, Dev, Monetization, and Store Sub...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-13T00:00:00Z",
@@ -3244,6 +3228,14 @@
       "thumb": "https://i.ytimg.com/vi/JjNxRLjHCHw/mqdefault.jpg"
     },
     {
+      "videoId": "rRf3Ft7Pyvw",
+      "title": "Figma is Dead (almost)",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-01-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/rRf3Ft7Pyvw/mqdefault.jpg"
+    },
+    {
       "videoId": "u4yfkr19NSY",
       "title": "The AI Tools Our Brand Designer Can't Live Without (Midjourney vs ChatGPT vs NanoBanana)",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
@@ -3252,20 +3244,28 @@
       "thumb": "https://i.ytimg.com/vi/u4yfkr19NSY/mqdefault.jpg"
     },
     {
-      "videoId": "9xQIdMAXl2Y",
-      "title": "I Tested Gemini 3 Pro vs Claude Opus 4.5 for UI Design (one is clearly superior)",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-01-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/9xQIdMAXl2Y/mqdefault.jpg"
-    },
-    {
       "videoId": "UPTLA2aNASA",
       "title": "IKEA’s Design System Skapa — How to build smart card components",
       "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
       "channelTitle": "Into Design Systems",
       "publishedAt": "2026-01-13T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/UPTLA2aNASA/mqdefault.jpg"
+    },
+    {
+      "videoId": "iq0iTIKbWKU",
+      "title": "How great teams really work | Figma for Edu Early Career Week",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2025-12-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/iq0iTIKbWKU/mqdefault.jpg"
+    },
+    {
+      "videoId": "6dEqxMwCSgY",
+      "title": "Build a portfolio that tells your story | Figma for Edu Early Career Week",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2025-12-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/6dEqxMwCSgY/mqdefault.jpg"
     },
     {
       "videoId": "y5c5b6WSI-s",
@@ -3388,14 +3388,6 @@
       "thumb": "https://i.ytimg.com/vi/r_VhvtRP81E/mqdefault.jpg"
     },
     {
-      "videoId": "KZ6EthOiJtA",
-      "title": "Demos of Gemini 3 Pro in Figma Make with Dylan Field",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2025-12-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/KZ6EthOiJtA/mqdefault.jpg"
-    },
-    {
       "videoId": "rOj7vKfnDLE",
       "title": "AI Built My Design System Docs Site (Figma MCP + Cursor)",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -3474,6 +3466,14 @@
       "channelTitle": "Marta Conde",
       "publishedAt": "2025-12-13T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/61UBGsScVTU/mqdefault.jpg"
+    },
+    {
+      "videoId": "9xQIdMAXl2Y",
+      "title": "I Tested Gemini 3 Pro vs Claude Opus 4.5 for UI Design (one is clearly superior)",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2025-12-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/9xQIdMAXl2Y/mqdefault.jpg"
     },
     {
       "videoId": "nbnD2h4IP8I",
@@ -4117,7 +4117,7 @@
     },
     {
       "videoId": "HqFkqCVBGVY",
-      "title": "The fastest way to apply variables. Turbo Variable",
+      "title": "La manera más rápida  de aplicar variables. Turbo Variable",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-13T00:00:00Z",
@@ -4957,7 +4957,7 @@
     },
     {
       "videoId": "RSEOizzJwwQ",
-      "title": "10x. Variants en Figma mucho más rápidas.",
+      "title": "10x. Faster Figma variants.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-13T00:00:00Z",
@@ -4973,7 +4973,7 @@
     },
     {
       "videoId": "kVGnhq4_pWg",
-      "title": "Control de versiones solo de variables en Figma. Increíble y súper útil.",
+      "title": "Version control specifically for Figma variables. Incredible and super useful.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-13T00:00:00Z",
@@ -5037,7 +5037,7 @@
     },
     {
       "videoId": "rxjL3QW3-cM",
-      "title": "Unboxing + configuración de Figma Creator Micro Keyboard - Review",
+      "title": "Unboxing + Figma Creator Micro Keyboard Setup - Review",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-13T00:00:00Z",
@@ -5061,7 +5061,7 @@
     },
     {
       "videoId": "e41RRSMWV8k",
-      "title": "Creando la cover de Figma perfecta - ¿Actualización auto o no?",
+      "title": "Creating the Perfect Figma Cover - Auto-update or not?",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-13T00:00:00Z",
@@ -5085,7 +5085,7 @@
     },
     {
       "videoId": "KSXc3rL9iRg",
-      "title": "Password protection gratis para tu portfolio en Framer",
+      "title": "Free password protection for your Framer portfolio",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-13T00:00:00Z",
@@ -5181,7 +5181,7 @@
     },
     {
       "videoId": "QSdF7JJ2SPw",
-      "title": "🤖 Cómo usar copilots en Figma, la IA que SÍ revolucionará el diseño en 2024. Buddy + FeedbackWizard",
+      "title": "🤖 How to use copilots in Figma, the AI ​​that WILL revolutionize design in 2024. Buddy + Feedback...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-13T00:00:00Z",
@@ -5981,7 +5981,7 @@
     },
     {
       "videoId": "6zVCj0Fi_1A",
-      "title": "HTML to Framer - Copia y pega cualquier web en Framer",
+      "title": "HTML to Framer - Copy and paste any website into Framer",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-13T00:00:00Z",
@@ -5989,7 +5989,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Fixing the \"detach\" bug in Figma color variables",
+      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-13T00:00:00Z",
@@ -7180,14 +7180,6 @@
       "thumb": "https://i.ytimg.com/vi/O3KBEVVXCHc/mqdefault.jpg"
     },
     {
-      "videoId": "hcMECGqwULw",
-      "title": "How much research should a junior designer know? - Interview with Ana Santos",
-      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
-      "channelTitle": "Malewicz",
-      "publishedAt": "2023-10-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/hcMECGqwULw/mqdefault.jpg"
-    },
-    {
       "videoId": "7FJs4UnPMuA",
       "title": "El nuevo Find and Replace de Figma. 5 cosas que SÍ hace y 10 que todavía NO :(",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
@@ -7221,7 +7213,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
+      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-13T00:00:00Z",
@@ -7301,7 +7293,7 @@
     },
     {
       "videoId": "WQeJDsBgY1M",
-      "title": "Linting, cómo evitar inconsistencias y errores en tus files y componentes de Figma",
+      "title": "Linting: How to avoid inconsistencies and errors in your Figma files and components",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-13T00:00:00Z",
@@ -7357,7 +7349,7 @@
     },
     {
       "videoId": "RwmN5vJvwoI",
-      "title": "Todas las opciones para compartir tus prototipos en Figma sin dramas. Permisos (Free, Pro y Org)",
+      "title": "All the options for sharing your Figma prototypes without any hassle. Permissions (Free, Pro, and...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-13T00:00:00Z",
@@ -7490,6 +7482,14 @@
       "channelTitle": "Into Design Systems",
       "publishedAt": "2022-10-13T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/w2LFfOtPsoc/mqdefault.jpg"
+    },
+    {
+      "videoId": "hcMECGqwULw",
+      "title": "How much research should a junior designer know? - Interview with Ana Santos",
+      "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
+      "channelTitle": "Malewicz",
+      "publishedAt": "2022-10-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/hcMECGqwULw/mqdefault.jpg"
     },
     {
       "videoId": "q365j1978G4",
