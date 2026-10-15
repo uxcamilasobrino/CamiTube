@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:13:54Z",
+  "generatedAt": "2026-10-15T02:51:20Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -61,7 +61,7 @@
     },
     {
       "videoId": "o52a9syFc40",
-      "title": "11 Designs That Inspire Ben Ganz’ Unique Visual Identity I Source Material",
+      "title": "Designer & Creative Director Ben Ganz Shares His 11 Biggest Design Inspirations I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-13T00:00:00Z",
@@ -93,7 +93,7 @@
     },
     {
       "videoId": "IjtOndtmC-Q",
-      "title": "Stop animating the hard way with Figma Motion | Show Your Work",
+      "title": "Figma Motion: Build a better motion design workflow | Show Your Work",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-09T00:00:00Z",
@@ -109,7 +109,7 @@
     },
     {
       "videoId": "0JXV6J357VE",
-      "title": "How to Bring AI Agents into Your Product Workflow",
+      "title": "How We Run a Product Team with AI Agents",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
       "publishedAt": "2026-10-09T00:00:00Z",
@@ -117,7 +117,7 @@
     },
     {
       "videoId": "MidLjQLejyE",
-      "title": "Teach Figma's agent your design system | Add guidelines to your Figma library",
+      "title": "Add guidelines to your Figma library | Teach Figma's agent your design system",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-07T00:00:00Z",
@@ -244,14 +244,6 @@
       "thumb": "https://i.ytimg.com/vi/vRzEHuqber8/mqdefault.jpg"
     },
     {
-      "videoId": "1ZfNM7rh0xU",
-      "title": "Principal Designer vs Design Manager? How to Choose Your Next Career Move",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-10-01T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/1ZfNM7rh0xU/mqdefault.jpg"
-    },
-    {
       "videoId": "j5yRBcPS96I",
       "title": "The New Design System Metrics",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
@@ -300,6 +292,14 @@
       "thumb": "https://i.ytimg.com/vi/lGj4rov3jK4/mqdefault.jpg"
     },
     {
+      "videoId": "1ZfNM7rh0xU",
+      "title": "Principal Designer vs Design Manager? How to Choose Your Next Career Move",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/1ZfNM7rh0xU/mqdefault.jpg"
+    },
+    {
       "videoId": "aTm0TtmMUfg",
       "title": "GPT-6 (Sol & Luna) vs Claude Opus 5.5 | A Designer's test!",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
@@ -309,7 +309,7 @@
     },
     {
       "videoId": "mbzghKe-Fnw",
-      "title": "How to Use ChatGPT (Codex) for UX/UI & Product Design!",
+      "title": "How to Use ChatGPT (Codex) + Figma MCP for UX/UI & Product Design!",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-09-24T00:00:00Z",
@@ -330,14 +330,6 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-09-24T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/2V3NoUcLV_4/mqdefault.jpg"
-    },
-    {
-      "videoId": "sfIIAiSgxmw",
-      "title": "How to Connect Figma MCP to ChatGPT & Codex!",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-09-24T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/sfIIAiSgxmw/mqdefault.jpg"
     },
     {
       "videoId": "-wFNWmtRt_k",
@@ -370,6 +362,14 @@
       "channelTitle": "UI Collective",
       "publishedAt": "2026-09-17T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/r-MPiu0E4W4/mqdefault.jpg"
+    },
+    {
+      "videoId": "sfIIAiSgxmw",
+      "title": "How to Connect Figma MCP to ChatGPT & Codex!",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/sfIIAiSgxmw/mqdefault.jpg"
     },
     {
       "videoId": "iBk2r10c7-Q",
@@ -1933,7 +1933,7 @@
     },
     {
       "videoId": "u3ukvj5KZ6A",
-      "title": "Can Figma Agent work with a Real Enterprise Design System?",
+      "title": "Can Figma Design Agent work with a Real Enterprise Design System?",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-06-15T00:00:00Z",
@@ -3205,7 +3205,7 @@
     },
     {
       "videoId": "tj8fmjQFQHU",
-      "title": "How to Create Native Apps for ChatGPT - Complete Process, UX/UI, Dev, Monetization, and Store Sub...",
+      "title": "Cómo crear apps nativas para ChatGPT - Proceso completo, UX/UI, dev, monetización y subida a store",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-15T00:00:00Z",
@@ -3549,7 +3549,7 @@
     },
     {
       "videoId": "M4MNUvv1dW0",
-      "title": "IA, DevTools y MCPs en Chrome - El diseñador del futuro (en Design Systems)",
+      "title": "AI, DevTools, and MCPs in Chrome - The Designer of the Future (in Design Systems)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-15T00:00:00Z",
@@ -3877,7 +3877,7 @@
     },
     {
       "videoId": "YsyXMdpILVQ",
-      "title": "La navaja suiza de los MCPs - StormMCP.ai - Diseño con IA",
+      "title": "The Swiss Army Knife of MCPs - StormMCP.ai - AI Design",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-15T00:00:00Z",
@@ -3941,7 +3941,7 @@
     },
     {
       "videoId": "Lu5XFFVp7a4",
-      "title": "Config London 2025 de Figma desde dentro",
+      "title": "Figma's Config London 2025 from the inside",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-15T00:00:00Z",
@@ -3957,7 +3957,7 @@
     },
     {
       "videoId": "u5kJaHDOZME",
-      "title": "Design Systems migration between accounts. Teams and projects intact.",
+      "title": "Migración de Design Systems entre cuentas. Equipos y proyectos intactos",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-15T00:00:00Z",
@@ -3997,7 +3997,7 @@
     },
     {
       "videoId": "TzI-tfa65nQ",
-      "title": "¿Será Paper.design la herramienta que destrone a Figma?",
+      "title": "Will Paper.design be the tool that dethrones Figma?",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-15T00:00:00Z",
@@ -4973,7 +4973,7 @@
     },
     {
       "videoId": "kVGnhq4_pWg",
-      "title": "Version control specifically for Figma variables. Incredible and super useful.",
+      "title": "Control de versiones solo de variables en Figma. Increíble y súper útil.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-15T00:00:00Z",
@@ -5197,7 +5197,7 @@
     },
     {
       "videoId": "LeAYZn-Vb3w",
-      "title": "How to merge multiple local components into a single remote library in Figma without losing insta...",
+      "title": "Cómo unir varios componentes locales y crear 1 librería remota única en Figma, sin perder instancias",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-15T00:00:00Z",
@@ -5245,7 +5245,7 @@
     },
     {
       "videoId": "F-lSmSLrf9I",
-      "title": "Create websites in Figma in 1 minute with artificial intelligence. Musho: ChatGPT-4 + Stable Diff...",
+      "title": "Crea webs en Figma en 1 minuto con inteligencia artificial. Musho: ChatGPT-4 + Stable DiffusionXL",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-15T00:00:00Z",
@@ -5989,7 +5989,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Fixing the \"detach\" bug in Figma color variables",
+      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-15T00:00:00Z",
@@ -7181,7 +7181,7 @@
     },
     {
       "videoId": "GihKIiPJJuc",
-      "title": "Documentar componentes obsoletos y relink rápido de instancias con Master y Design System Organizer",
+      "title": "Documenting Deprecated Components and Quickly Relinking Instances with Master and Design System O...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-15T00:00:00Z",
