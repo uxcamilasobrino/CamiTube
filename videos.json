@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:59:13Z",
+  "generatedAt": "2026-10-18T02:41:26Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -125,7 +125,7 @@
     },
     {
       "videoId": "o52a9syFc40",
-      "title": "The Unexpected References Shaping Ben Ganz’ Iconic Designs I Source Material",
+      "title": "Designer & Creative Director Ben Ganz Shares His 11 Biggest Design Inspirations I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-13T00:00:00Z",
@@ -200,7 +200,7 @@
       "title": "14 Unexpected Design References that Inspire Chase Rutherford I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-07T00:00:00Z",
+      "publishedAt": "2026-10-06T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/j-DQtPL_x3o/mqdefault.jpg"
     },
     {
@@ -2484,14 +2484,6 @@
       "thumb": "https://i.ytimg.com/vi/1lcWnSUKsIg/mqdefault.jpg"
     },
     {
-      "videoId": "B8hyvF0aBTw",
-      "title": "Design Systems with Figma: Tokyo",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/B8hyvF0aBTw/mqdefault.jpg"
-    },
-    {
       "videoId": "lwOIVNRHndM",
       "title": "Design in Claude Code Like This",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -2644,14 +2636,6 @@
       "thumb": "https://i.ytimg.com/vi/SXigUnIJ5U4/mqdefault.jpg"
     },
     {
-      "videoId": "Fd0I3DtLC7E",
-      "title": "Build Your Entire Presentation in Claude Code and Ship it as HTML",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Fd0I3DtLC7E/mqdefault.jpg"
-    },
-    {
       "videoId": "twmPjqYedaw",
       "title": "AI PSYCHOSIS IS REAL?!",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
@@ -2690,6 +2674,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-04-18T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/qEwzCPGt9BQ/mqdefault.jpg"
+    },
+    {
+      "videoId": "B8hyvF0aBTw",
+      "title": "Design Systems with Figma: Tokyo",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-03-18T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/B8hyvF0aBTw/mqdefault.jpg"
     },
     {
       "videoId": "C0fNUdjQxeY",
@@ -2914,6 +2906,14 @@
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-03-18T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/hynYP8dc3y0/mqdefault.jpg"
+    },
+    {
+      "videoId": "Fd0I3DtLC7E",
+      "title": "Build Your Entire Presentation in Claude Code and Ship it as HTML",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-03-18T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Fd0I3DtLC7E/mqdefault.jpg"
     },
     {
       "videoId": "uwH8sGi-GLQ",
@@ -4949,7 +4949,7 @@
     },
     {
       "videoId": "x4prtZEwg60",
-      "title": "Apply your variable modes in bulk in Figma. To your entire file at once!",
+      "title": "Aplica tus modos de variables de manera masiva en Figma. ¡En todo tu “file” a la vez!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-18T00:00:00Z",
@@ -5053,7 +5053,7 @@
     },
     {
       "videoId": "rxjL3QW3-cM",
-      "title": "Unboxing + Figma Creator Micro Keyboard Setup - Review",
+      "title": "Unboxing + configuración de Figma Creator Micro Keyboard - Review",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-18T00:00:00Z",
@@ -5101,7 +5101,7 @@
     },
     {
       "videoId": "KSXc3rL9iRg",
-      "title": "Free password protection for your Framer portfolio",
+      "title": "Password protection gratis para tu portfolio en Framer",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-18T00:00:00Z",
@@ -5109,7 +5109,7 @@
     },
     {
       "videoId": "SYlJ3FLgQBE",
-      "title": "Headless, the future of design systems? How to do it in Figma",
+      "title": "Headless, ¿El futuro de los design systems? Cómo hacerlo en Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-18T00:00:00Z",
@@ -5221,7 +5221,7 @@
     },
     {
       "videoId": "DyD8O2rl6lY",
-      "title": "6 new features in Figma variables: Strokes, grids, strings...",
+      "title": "6 novedades en las variables de Figma. Strokes, grids, strings...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-18T00:00:00Z",
@@ -5245,7 +5245,7 @@
     },
     {
       "videoId": "ImOGxWTxK5Q",
-      "title": "💰 Part 2 - The end of Figma? How much does tldraw + ChatGPT cost. Setup, drawing with iPad. AI",
+      "title": "💰 Parte 2 - ¿El fin de Figma? Cuánto cue$ta tldraw + ChatGPT. Configuración, dibujando con iPAD. IA",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-18T00:00:00Z",
@@ -5997,7 +5997,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
+      "title": "Fixing the \"detach\" bug in Figma color variables",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-18T00:00:00Z",
@@ -7189,7 +7189,7 @@
     },
     {
       "videoId": "GihKIiPJJuc",
-      "title": "Documentar componentes obsoletos y relink rápido de instancias con Master y Design System Organizer",
+      "title": "Documenting Deprecated Components and Quickly Relinking Instances with Master and Design System O...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-18T00:00:00Z",
