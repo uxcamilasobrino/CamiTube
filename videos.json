@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T19:58:37Z",
+  "generatedAt": "2026-10-19T02:54:37Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -125,7 +125,7 @@
     },
     {
       "videoId": "o52a9syFc40",
-      "title": "11 Designs That Inspire Ben Ganz’ Unique Visual Identity I Source Material",
+      "title": "Designer & Creative Director Ben Ganz Shares His 11 Biggest Design Inspirations I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-13T00:00:00Z",
@@ -181,7 +181,7 @@
     },
     {
       "videoId": "MidLjQLejyE",
-      "title": "Teach Figma's agent your design system | Add guidelines to your Figma library",
+      "title": "Add guidelines to your Figma library | Teach Figma's agent your design system",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-07T00:00:00Z",
@@ -200,7 +200,7 @@
       "title": "14 Unexpected Design References that Inspire Chase Rutherford I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-07T00:00:00Z",
+      "publishedAt": "2026-10-06T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/j-DQtPL_x3o/mqdefault.jpg"
     },
     {
@@ -3172,14 +3172,6 @@
       "thumb": "https://i.ytimg.com/vi/AiEATeNyWnk/mqdefault.jpg"
     },
     {
-      "videoId": "7R3lnGToAis",
-      "title": "Stop Using One AI for User Research (Try This Instead)",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-02-19T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/7R3lnGToAis/mqdefault.jpg"
-    },
-    {
       "videoId": "LTsIKT9dslU",
       "title": "Everyone Can Design Now... NO THEY CAN'T!",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
@@ -3266,6 +3258,14 @@
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-19T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/tj8fmjQFQHU/mqdefault.jpg"
+    },
+    {
+      "videoId": "7R3lnGToAis",
+      "title": "Stop Using One AI for User Research (Try This Instead)",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-01-19T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/7R3lnGToAis/mqdefault.jpg"
     },
     {
       "videoId": "rRf3Ft7Pyvw",
@@ -3949,7 +3949,7 @@
     },
     {
       "videoId": "Lu5XFFVp7a4",
-      "title": "Config London 2025 de Figma desde dentro",
+      "title": "Figma's Config London 2025 from the inside",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-19T00:00:00Z",
@@ -4109,7 +4109,7 @@
     },
     {
       "videoId": "HqFkqCVBGVY",
-      "title": "La manera más rápida  de aplicar variables. Turbo Variable",
+      "title": "The fastest way to apply variables. Turbo Variable",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-19T00:00:00Z",
@@ -4932,14 +4932,6 @@
       "thumb": "https://i.ytimg.com/vi/r_EujiBTNn0/mqdefault.jpg"
     },
     {
-      "videoId": "tkL8YeVOqWY",
-      "title": "Figma Token and Variable Setup: Top Mistakes to Avoid",
-      "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
-      "channelTitle": "UI Collective",
-      "publishedAt": "2024-10-19T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/tkL8YeVOqWY/mqdefault.jpg"
-    },
-    {
       "videoId": "1_D-_K71pvo",
       "title": "Lo nuevo de Figma que NO sabías que necesitabas",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
@@ -5053,7 +5045,7 @@
     },
     {
       "videoId": "rxjL3QW3-cM",
-      "title": "Unboxing + configuración de Figma Creator Micro Keyboard - Review",
+      "title": "Unboxing + Figma Creator Micro Keyboard Setup - Review",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-19T00:00:00Z",
@@ -5221,7 +5213,7 @@
     },
     {
       "videoId": "DyD8O2rl6lY",
-      "title": "6 novedades en las variables de Figma. Strokes, grids, strings...",
+      "title": "6 new features in Figma variables: Strokes, grids, strings...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-19T00:00:00Z",
@@ -5722,6 +5714,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2024-10-19T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/D3D_GbjycME/mqdefault.jpg"
+    },
+    {
+      "videoId": "tkL8YeVOqWY",
+      "title": "Figma Token and Variable Setup: Top Mistakes to Avoid",
+      "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
+      "channelTitle": "UI Collective",
+      "publishedAt": "2023-10-19T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/tkL8YeVOqWY/mqdefault.jpg"
     },
     {
       "videoId": "pMYEHsWHLbg",
@@ -7205,7 +7205,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
+      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-19T00:00:00Z",
@@ -7285,7 +7285,7 @@
     },
     {
       "videoId": "WQeJDsBgY1M",
-      "title": "Linting, cómo evitar inconsistencias y errores en tus files y componentes de Figma",
+      "title": "Linting: How to avoid inconsistencies and errors in your Figma files and components",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-19T00:00:00Z",
