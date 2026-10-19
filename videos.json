@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:54:37Z",
+  "generatedAt": "2026-10-19T11:53:13Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -44,6 +44,14 @@
   ],
   "videos": [
     {
+      "videoId": "7ez4boVhQFI",
+      "title": "How to Set Up Figma MCP in VS Code Read & Write Figma Files",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-10-19T10:55:00Z",
+      "thumb": "https://i.ytimg.com/vi/7ez4boVhQFI/mqdefault.jpg"
+    },
+    {
       "videoId": "WEJ2cZBT3PA",
       "title": "Shared context with Figma Specs | Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -80,24 +88,8 @@
       "title": "Figma News · Config India · October 2026",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-10-17T00:00:00Z",
+      "publishedAt": "2026-10-16T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/nW4WDcJ_j2Y/mqdefault.jpg"
-    },
-    {
-      "videoId": "ukY9Dvwm7Gc",
-      "title": "Explore ideas in code | Figma",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/ukY9Dvwm7Gc/mqdefault.jpg"
-    },
-    {
-      "videoId": "Sdh_I7PSuew",
-      "title": "All our announcements from Config India | Figma",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Sdh_I7PSuew/mqdefault.jpg"
     },
     {
       "videoId": "HjGF-qjqQZo",
@@ -106,6 +98,22 @@
       "channelTitle": "The Design Project",
       "publishedAt": "2026-10-16T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/HjGF-qjqQZo/mqdefault.jpg"
+    },
+    {
+      "videoId": "ukY9Dvwm7Gc",
+      "title": "Design with Code Layers | Figma",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/ukY9Dvwm7Gc/mqdefault.jpg"
+    },
+    {
+      "videoId": "Sdh_I7PSuew",
+      "title": "All our announcements from Config India | Figma",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Sdh_I7PSuew/mqdefault.jpg"
     },
     {
       "videoId": "rbxNV3_mb-A",
@@ -125,7 +133,7 @@
     },
     {
       "videoId": "o52a9syFc40",
-      "title": "Designer & Creative Director Ben Ganz Shares His 11 Biggest Design Inspirations I Source Material",
+      "title": "11 Designs That Inspire Ben Ganz’ Unique Visual Identity I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-13T00:00:00Z",
@@ -140,22 +148,6 @@
       "thumb": "https://i.ytimg.com/vi/dWEvzEkg9hM/mqdefault.jpg"
     },
     {
-      "videoId": "582pEQmHrZs",
-      "title": "recreo x Radar · Design Quality · 26 septiembre · Zaragoza",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-10-10T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/582pEQmHrZs/mqdefault.jpg"
-    },
-    {
-      "videoId": "WlhBQL317uM",
-      "title": "Scaling a Design System with AI using Supernova",
-      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
-      "channelTitle": "Marta Conde",
-      "publishedAt": "2026-10-10T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/WlhBQL317uM/mqdefault.jpg"
-    },
-    {
       "videoId": "IjtOndtmC-Q",
       "title": "Figma Motion: Build a better motion design workflow | Show Your Work",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -164,12 +156,20 @@
       "thumb": "https://i.ytimg.com/vi/IjtOndtmC-Q/mqdefault.jpg"
     },
     {
-      "videoId": "jcUlNPjuMCY",
-      "title": "Refresh · Lo diseñamos. Lo construimos. Creando producto en Shift+R",
+      "videoId": "582pEQmHrZs",
+      "title": "recreo x Radar · Design Quality · 26 septiembre · Zaragoza",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-10-09T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/jcUlNPjuMCY/mqdefault.jpg"
+      "thumb": "https://i.ytimg.com/vi/582pEQmHrZs/mqdefault.jpg"
+    },
+    {
+      "videoId": "WlhBQL317uM",
+      "title": "Scaling a Design System with AI using Supernova",
+      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
+      "channelTitle": "Marta Conde",
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/WlhBQL317uM/mqdefault.jpg"
     },
     {
       "videoId": "0JXV6J357VE",
@@ -180,8 +180,16 @@
       "thumb": "https://i.ytimg.com/vi/0JXV6J357VE/mqdefault.jpg"
     },
     {
+      "videoId": "jcUlNPjuMCY",
+      "title": "Refresh · Lo diseñamos. Lo construimos. Creando producto en Shift+R",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/jcUlNPjuMCY/mqdefault.jpg"
+    },
+    {
       "videoId": "MidLjQLejyE",
-      "title": "Add guidelines to your Figma library | Teach Figma's agent your design system",
+      "title": "Teach Figma's agent your design system | Add guidelines to your Figma library",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-07T00:00:00Z",
@@ -202,14 +210,6 @@
       "channelTitle": "Figma",
       "publishedAt": "2026-10-06T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/j-DQtPL_x3o/mqdefault.jpg"
-    },
-    {
-      "videoId": "6geD-droh0Q",
-      "title": "Your next phone will be foldable (and you don't know it yet)",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-10-06T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/6geD-droh0Q/mqdefault.jpg"
     },
     {
       "videoId": "YPKAjTDz7Jc",
@@ -266,6 +266,14 @@
       "channelTitle": "UI Collective",
       "publishedAt": "2026-10-05T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/ljJuOxTsrtY/mqdefault.jpg"
+    },
+    {
+      "videoId": "6geD-droh0Q",
+      "title": "Your next phone will be foldable (and you don't know it yet)",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-10-05T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/6geD-droh0Q/mqdefault.jpg"
     },
     {
       "videoId": "xi5JmpyaDgw",
@@ -338,14 +346,6 @@
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-09-28T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/lGj4rov3jK4/mqdefault.jpg"
-    },
-    {
-      "videoId": "1ZfNM7rh0xU",
-      "title": "Principal Designer vs Design Manager? How to Choose Your Next Career Move",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-09-28T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/1ZfNM7rh0xU/mqdefault.jpg"
     },
     {
       "videoId": "aTm0TtmMUfg",
@@ -482,14 +482,6 @@
       "channelTitle": "Figma",
       "publishedAt": "2026-09-19T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/AF4VD3dfUdc/mqdefault.jpg"
-    },
-    {
-      "videoId": "-ilLpuqgbjI",
-      "title": "Figma Motion basics: Animation styles",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-09-19T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/-ilLpuqgbjI/mqdefault.jpg"
     },
     {
       "videoId": "r-MPiu0E4W4",
@@ -666,6 +658,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-09-19T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/GzDBkU0irpA/mqdefault.jpg"
+    },
+    {
+      "videoId": "-ilLpuqgbjI",
+      "title": "Figma Motion basics: Animation styles",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-08-19T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/-ilLpuqgbjI/mqdefault.jpg"
     },
     {
       "videoId": "34KoAgoaG7w",
@@ -2452,14 +2452,6 @@
       "thumb": "https://i.ytimg.com/vi/bjDe3qXLYE0/mqdefault.jpg"
     },
     {
-      "videoId": "EWWg7Z3gX7E",
-      "title": "Creating a viral campaign in 30 mins using Figma's Vectorize Image tools",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-04-19T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/EWWg7Z3gX7E/mqdefault.jpg"
-    },
-    {
       "videoId": "lwOIVNRHndM",
       "title": "Design in Claude Code Like This",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -2660,6 +2652,14 @@
       "thumb": "https://i.ytimg.com/vi/qEwzCPGt9BQ/mqdefault.jpg"
     },
     {
+      "videoId": "EWWg7Z3gX7E",
+      "title": "Creating a viral campaign in 30 mins using Figma's Vectorize Image tools",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-03-19T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/EWWg7Z3gX7E/mqdefault.jpg"
+    },
+    {
       "videoId": "1lcWnSUKsIg",
       "title": "Figma for Edu: Figma Design and Figma Make, back to basics",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -2842,14 +2842,6 @@
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-03-19T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/EACMwFLILag/mqdefault.jpg"
-    },
-    {
-      "videoId": "Z9MxL27tsUw",
-      "title": "New Claude Code to Figma: what it does (and doesn't). AI course for designers 2026.",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-03-19T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Z9MxL27tsUw/mqdefault.jpg"
     },
     {
       "videoId": "wCvtTQ-CTgU",
@@ -3100,6 +3092,14 @@
       "thumb": "https://i.ytimg.com/vi/XfezMs8B-O8/mqdefault.jpg"
     },
     {
+      "videoId": "Z9MxL27tsUw",
+      "title": "New Claude Code to Figma: what it does (and doesn't). AI course for designers 2026.",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-02-19T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Z9MxL27tsUw/mqdefault.jpg"
+    },
+    {
       "videoId": "0GSaXKV3ULw",
       "title": "\"rewind\" con Javier Domingo (Director de UX de El Corte inglés) - 10/02/26 - Shift+R x Thiga España",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
@@ -3138,14 +3138,6 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-02-19T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/EbsQp33Rzzg/mqdefault.jpg"
-    },
-    {
-      "videoId": "m5SZQ5cd6Gc",
-      "title": "Supernova vs. Zeroheight: Which Tool Should You Choose to Document Your Design System?",
-      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
-      "channelTitle": "Marta Conde",
-      "publishedAt": "2026-02-19T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/m5SZQ5cd6Gc/mqdefault.jpg"
     },
     {
       "videoId": "GJef5BuQ8qQ",
@@ -3253,11 +3245,19 @@
     },
     {
       "videoId": "tj8fmjQFQHU",
-      "title": "How to Create Native Apps for ChatGPT - Complete Process, UX/UI, Dev, Monetization, and Store Sub...",
+      "title": "Cómo crear apps nativas para ChatGPT - Proceso completo, UX/UI, dev, monetización y subida a store",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-19T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/tj8fmjQFQHU/mqdefault.jpg"
+    },
+    {
+      "videoId": "m5SZQ5cd6Gc",
+      "title": "Supernova vs. Zeroheight: Which Tool Should You Choose to Document Your Design System?",
+      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
+      "channelTitle": "Marta Conde",
+      "publishedAt": "2026-01-19T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/m5SZQ5cd6Gc/mqdefault.jpg"
     },
     {
       "videoId": "7R3lnGToAis",
