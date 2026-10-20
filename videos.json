@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:04:40Z",
+  "generatedAt": "2026-10-20T10:49:41Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -56,7 +56,7 @@
       "title": "Principal Designer vs Design Manager? How to Choose Your Next Career Move",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-10-19T12:00:00Z",
+      "publishedAt": "2026-10-19T13:00:00Z",
       "thumb": "https://i.ytimg.com/vi/1ZfNM7rh0xU/mqdefault.jpg"
     },
     {
@@ -64,7 +64,7 @@
       "title": "How to Set Up Figma MCP in VS Code Read & Write Figma Files",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-10-19T11:00:00Z",
+      "publishedAt": "2026-10-19T12:00:00Z",
       "thumb": "https://i.ytimg.com/vi/7ez4boVhQFI/mqdefault.jpg"
     },
     {
@@ -116,20 +116,20 @@
       "thumb": "https://i.ytimg.com/vi/ukY9Dvwm7Gc/mqdefault.jpg"
     },
     {
-      "videoId": "Sdh_I7PSuew",
-      "title": "All our announcements from Config India | Figma",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Sdh_I7PSuew/mqdefault.jpg"
-    },
-    {
       "videoId": "HjGF-qjqQZo",
       "title": "Can Open-Source AI Actually Produce Better UI Design than Claude?",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
       "publishedAt": "2026-10-16T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/HjGF-qjqQZo/mqdefault.jpg"
+    },
+    {
+      "videoId": "Sdh_I7PSuew",
+      "title": "All our announcements from Config India | Figma",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Sdh_I7PSuew/mqdefault.jpg"
     },
     {
       "videoId": "rbxNV3_mb-A",
@@ -149,7 +149,7 @@
     },
     {
       "videoId": "o52a9syFc40",
-      "title": "Designer & Creative Director Ben Ganz Shares His 11 Biggest Design Inspirations I Source Material",
+      "title": "11 Designs That Inspire Ben Ganz’ Unique Visual Identity I Source Material",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-13T00:00:00Z",
@@ -164,28 +164,20 @@
       "thumb": "https://i.ytimg.com/vi/dWEvzEkg9hM/mqdefault.jpg"
     },
     {
-      "videoId": "582pEQmHrZs",
-      "title": "recreo x Radar · Design Quality · 26 septiembre · Zaragoza",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-10-10T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/582pEQmHrZs/mqdefault.jpg"
-    },
-    {
-      "videoId": "WlhBQL317uM",
-      "title": "Scaling a Design System with AI using Supernova",
-      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
-      "channelTitle": "Marta Conde",
-      "publishedAt": "2026-10-10T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/WlhBQL317uM/mqdefault.jpg"
-    },
-    {
       "videoId": "IjtOndtmC-Q",
-      "title": "Stop animating the hard way with Figma Motion | Show Your Work",
+      "title": "Figma Motion: Build a better motion design workflow | Show Your Work",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-09T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/IjtOndtmC-Q/mqdefault.jpg"
+    },
+    {
+      "videoId": "582pEQmHrZs",
+      "title": "recreo x Radar · Design Quality · 26 septiembre · Zaragoza",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/582pEQmHrZs/mqdefault.jpg"
     },
     {
       "videoId": "jcUlNPjuMCY",
@@ -194,6 +186,14 @@
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-10-09T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/jcUlNPjuMCY/mqdefault.jpg"
+    },
+    {
+      "videoId": "WlhBQL317uM",
+      "title": "Scaling a Design System with AI using Supernova",
+      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
+      "channelTitle": "Marta Conde",
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/WlhBQL317uM/mqdefault.jpg"
     },
     {
       "videoId": "0JXV6J357VE",
@@ -205,7 +205,7 @@
     },
     {
       "videoId": "MidLjQLejyE",
-      "title": "Add guidelines to your Figma library | Teach Figma's agent your design system",
+      "title": "Teach Figma's agent your design system | Add guidelines to your Figma library",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-07T00:00:00Z",
@@ -260,14 +260,6 @@
       "thumb": "https://i.ytimg.com/vi/6geD-droh0Q/mqdefault.jpg"
     },
     {
-      "videoId": "xi5JmpyaDgw",
-      "title": "Refresh · Is design dead? · AI, Design Systems and the Design Engineer role",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-10-06T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/xi5JmpyaDgw/mqdefault.jpg"
-    },
-    {
       "videoId": "YPKAjTDz7Jc",
       "title": "How to Design with Claude + Figma | Complete AI-Native Workflow",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
@@ -282,14 +274,6 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-10-06T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/Q8OVk0n4K1c/mqdefault.jpg"
-    },
-    {
-      "videoId": "j5yRBcPS96I",
-      "title": "The New Design System Metrics",
-      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
-      "channelTitle": "Marta Conde",
-      "publishedAt": "2026-10-06T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/j5yRBcPS96I/mqdefault.jpg"
     },
     {
       "videoId": "4NcxD3f6qLA",
@@ -332,6 +316,14 @@
       "thumb": "https://i.ytimg.com/vi/UHupJZO7DTw/mqdefault.jpg"
     },
     {
+      "videoId": "xi5JmpyaDgw",
+      "title": "Refresh · Is design dead? · AI, Design Systems and the Design Engineer role",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/xi5JmpyaDgw/mqdefault.jpg"
+    },
+    {
       "videoId": "vRzEHuqber8",
       "title": "How Product Designers Use AI Without Losing Their Craft | Keri Plasse Design Architect!",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
@@ -354,6 +346,14 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-09-29T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/mbzghKe-Fnw/mqdefault.jpg"
+    },
+    {
+      "videoId": "j5yRBcPS96I",
+      "title": "The New Design System Metrics",
+      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
+      "channelTitle": "Marta Conde",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/j5yRBcPS96I/mqdefault.jpg"
     },
     {
       "videoId": "iigRk680X40",
@@ -2308,14 +2308,6 @@
       "thumb": "https://i.ytimg.com/vi/9WGxgeheF9M/mqdefault.jpg"
     },
     {
-      "videoId": "QFus-6HYvAg",
-      "title": "How to get started with Design Systems?",
-      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
-      "channelTitle": "Marta Conde",
-      "publishedAt": "2026-05-20T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/QFus-6HYvAg/mqdefault.jpg"
-    },
-    {
       "videoId": "B7xXKTfBxhE",
       "title": "Don't Build a Design System from Scratch (Advanced Claude Code + Figma Workflow)",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
@@ -2554,6 +2546,14 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-04-20T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/Tue-LQZprEM/mqdefault.jpg"
+    },
+    {
+      "videoId": "QFus-6HYvAg",
+      "title": "How to get started with Design Systems?",
+      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
+      "channelTitle": "Marta Conde",
+      "publishedAt": "2026-04-20T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/QFus-6HYvAg/mqdefault.jpg"
     },
     {
       "videoId": "NUqlmmzpaQM",
@@ -3253,7 +3253,7 @@
     },
     {
       "videoId": "tj8fmjQFQHU",
-      "title": "Cómo crear apps nativas para ChatGPT - Proceso completo, UX/UI, dev, monetización y subida a store",
+      "title": "How to Create Native Apps for ChatGPT - Complete Process, UX/UI, Dev, Monetization, and Store Sub...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-20T00:00:00Z",
@@ -3909,7 +3909,7 @@
     },
     {
       "videoId": "8N_ZrT70Ie4",
-      "title": "Ch. 3 - AI for Designers. AI Agents at the Wheel, the Revolution of Your Design Workflow",
+      "title": "Cap.3 - IA para diseñadores. Agentes de IA al volante, la revolución de tu flujo de diseño",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-20T00:00:00Z",
@@ -3981,7 +3981,7 @@
     },
     {
       "videoId": "u5kJaHDOZME",
-      "title": "Migración de Design Systems entre cuentas. Equipos y proyectos intactos",
+      "title": "Design Systems migration between accounts. Teams and projects intact.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-20T00:00:00Z",
@@ -4957,7 +4957,7 @@
     },
     {
       "videoId": "x4prtZEwg60",
-      "title": "Aplica tus modos de variables de manera masiva en Figma. ¡En todo tu “file” a la vez!",
+      "title": "Apply your variable modes in bulk in Figma. To your entire file at once!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-20T00:00:00Z",
@@ -4997,7 +4997,7 @@
     },
     {
       "videoId": "kVGnhq4_pWg",
-      "title": "Control de versiones solo de variables en Figma. Increíble y súper útil.",
+      "title": "Version control specifically for Figma variables. Incredible and super useful.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-20T00:00:00Z",
@@ -5925,7 +5925,7 @@
     },
     {
       "videoId": "qLKOLqWZICk",
-      "title": "🔥 🚀 😱 Document and organize your Figma variables in 1 second",
+      "title": "🔥 🚀 😱 Documenta y organiza tus variables de Figma en 1 segundo",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-20T00:00:00Z",
@@ -6013,7 +6013,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Fixing the \"detach\" bug in Figma color variables",
+      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-20T00:00:00Z",
@@ -6045,7 +6045,7 @@
     },
     {
       "videoId": "C1Eajx4xlRg",
-      "title": "Incluye archivos adjuntos en Figma (fonts, pdfs, mp4...) y accede desde diseño, handoff, Figjam...",
+      "title": "Include attachments in Figma (fonts, PDFs, mp4...) and access them from design, handoff, Figjam...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-20T00:00:00Z",
@@ -7197,7 +7197,7 @@
     },
     {
       "videoId": "GihKIiPJJuc",
-      "title": "Documentar componentes obsoletos y relink rápido de instancias con Master y Design System Organizer",
+      "title": "Documenting Deprecated Components and Quickly Relinking Instances with Master and Design System O...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-20T00:00:00Z",
