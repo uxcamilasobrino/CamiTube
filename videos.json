@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:28:31Z",
+  "generatedAt": "2026-10-21T21:08:18Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -48,7 +48,7 @@
       "title": "Design is over. Here's what comes next.",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
       "channelTitle": "Malewicz",
-      "publishedAt": "2026-10-21T16:25:00Z",
+      "publishedAt": "2026-10-21T17:00:00Z",
       "thumb": "https://i.ytimg.com/vi/ZNlVjEpAt3c/mqdefault.jpg"
     },
     {
@@ -56,7 +56,7 @@
       "title": "Google Antigravity + Figma MCP — Setup & Workflow for Designers",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-10-21T15:31:00Z",
+      "publishedAt": "2026-10-21T16:00:00Z",
       "thumb": "https://i.ytimg.com/vi/BuO78FgTTP8/mqdefault.jpg"
     },
     {
@@ -132,14 +132,6 @@
       "thumb": "https://i.ytimg.com/vi/nW4WDcJ_j2Y/mqdefault.jpg"
     },
     {
-      "videoId": "HjGF-qjqQZo",
-      "title": "Can Open-Source AI Actually Produce Better UI Design than Claude?",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-10-17T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/HjGF-qjqQZo/mqdefault.jpg"
-    },
-    {
       "videoId": "ukY9Dvwm7Gc",
       "title": "Design with Code Layers | Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -156,20 +148,20 @@
       "thumb": "https://i.ytimg.com/vi/Sdh_I7PSuew/mqdefault.jpg"
     },
     {
+      "videoId": "HjGF-qjqQZo",
+      "title": "Can Open-Source AI Actually Produce Better UI Design than Claude?",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/HjGF-qjqQZo/mqdefault.jpg"
+    },
+    {
       "videoId": "rbxNV3_mb-A",
       "title": "Figma for Edu: Working with typography systems",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-15T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/rbxNV3_mb-A/mqdefault.jpg"
-    },
-    {
-      "videoId": "o52a9syFc40",
-      "title": "11 Designs That Inspire Ben Ganz’ Unique Visual Identity I Source Material",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
       "publishedAt": "2026-10-14T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/o52a9syFc40/mqdefault.jpg"
+      "thumb": "https://i.ytimg.com/vi/rbxNV3_mb-A/mqdefault.jpg"
     },
     {
       "videoId": "soidJfQaL5g",
@@ -178,6 +170,14 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-10-14T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/soidJfQaL5g/mqdefault.jpg"
+    },
+    {
+      "videoId": "o52a9syFc40",
+      "title": "11 Designs That Inspire Ben Ganz’ Unique Visual Identity I Source Material",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-10-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/o52a9syFc40/mqdefault.jpg"
     },
     {
       "videoId": "dWEvzEkg9hM",
@@ -204,14 +204,6 @@
       "thumb": "https://i.ytimg.com/vi/WlhBQL317uM/mqdefault.jpg"
     },
     {
-      "videoId": "0JXV6J357VE",
-      "title": "How We Run a Product Team with AI Agents",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-10-10T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/0JXV6J357VE/mqdefault.jpg"
-    },
-    {
       "videoId": "IjtOndtmC-Q",
       "title": "Figma Motion: Build a better motion design workflow | Show Your Work",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -226,6 +218,14 @@
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-10-09T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/jcUlNPjuMCY/mqdefault.jpg"
+    },
+    {
+      "videoId": "0JXV6J357VE",
+      "title": "How We Run a Product Team with AI Agents",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/0JXV6J357VE/mqdefault.jpg"
     },
     {
       "videoId": "MidLjQLejyE",
@@ -260,14 +260,6 @@
       "thumb": "https://i.ytimg.com/vi/1lnuBH7CbEY/mqdefault.jpg"
     },
     {
-      "videoId": "HhRwVigdDIk",
-      "title": "Figma Motion basics: Custom animation styles",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-10-08T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/HhRwVigdDIk/mqdefault.jpg"
-    },
-    {
       "videoId": "6geD-droh0Q",
       "title": "Your next phone will be foldable (and you don't know it yet)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
@@ -298,6 +290,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-10-08T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/mtGZfx7gWMU/mqdefault.jpg"
+    },
+    {
+      "videoId": "HhRwVigdDIk",
+      "title": "Figma Motion basics: Custom animation styles",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/HhRwVigdDIk/mqdefault.jpg"
     },
     {
       "videoId": "QKJKAvmzOrw",
@@ -356,14 +356,6 @@
       "thumb": "https://i.ytimg.com/vi/vRzEHuqber8/mqdefault.jpg"
     },
     {
-      "videoId": "aTm0TtmMUfg",
-      "title": "GPT-6 (Sol & Luna) vs Claude Opus 5.5 | A Designer's test!",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-10-01T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/aTm0TtmMUfg/mqdefault.jpg"
-    },
-    {
       "videoId": "j5yRBcPS96I",
       "title": "The New Design System Metrics",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
@@ -380,12 +372,12 @@
       "thumb": "https://i.ytimg.com/vi/iigRk680X40/mqdefault.jpg"
     },
     {
-      "videoId": "Upx_82SYDGc",
-      "title": "9 Designs that Inspired BRAT's Art Director, Brent David Freaney I Source Material",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
+      "videoId": "aTm0TtmMUfg",
+      "title": "GPT-6 (Sol & Luna) vs Claude Opus 5.5 | A Designer's test!",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-09-24T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Upx_82SYDGc/mqdefault.jpg"
+      "thumb": "https://i.ytimg.com/vi/aTm0TtmMUfg/mqdefault.jpg"
     },
     {
       "videoId": "mbzghKe-Fnw",
@@ -394,6 +386,14 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-09-24T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/mbzghKe-Fnw/mqdefault.jpg"
+    },
+    {
+      "videoId": "Upx_82SYDGc",
+      "title": "9 Designs that Inspired BRAT's Art Director, Brent David Freaney I Source Material",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Upx_82SYDGc/mqdefault.jpg"
     },
     {
       "videoId": "spMhSWAmduw",
@@ -2044,14 +2044,6 @@
       "thumb": "https://i.ytimg.com/vi/N6b3alsePDs/mqdefault.jpg"
     },
     {
-      "videoId": "uswUyEnrSwg",
-      "title": "I've Been a Claude Code Lover for a Year. Then I Tried Codex",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-06-22T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/uswUyEnrSwg/mqdefault.jpg"
-    },
-    {
       "videoId": "VtExikfN6HM",
       "title": "Design Systems Portfolio Tips & Tricks | Into Design Systems Conference",
       "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
@@ -2282,6 +2274,14 @@
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-05-22T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/9WGxgeheF9M/mqdefault.jpg"
+    },
+    {
+      "videoId": "uswUyEnrSwg",
+      "title": "I've Been a Claude Code Lover for a Year. Then I Tried Codex",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-05-22T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/uswUyEnrSwg/mqdefault.jpg"
     },
     {
       "videoId": "B7xXKTfBxhE",
@@ -3997,7 +3997,7 @@
     },
     {
       "videoId": "u5kJaHDOZME",
-      "title": "Design Systems migration between accounts. Teams and projects intact.",
+      "title": "Migración de Design Systems entre cuentas. Equipos y proyectos intactos",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-22T00:00:00Z",
@@ -5205,7 +5205,7 @@
     },
     {
       "videoId": "OkoLDvnir5g",
-      "title": "Dev Mode de Figma ya es de pago. ¿Merece la pena? - 💰 Review: precio, integraciones...",
+      "title": "Figma's Dev Mode is now a paid feature. Is it worth it? - 💰 Review: price, integrations...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-22T00:00:00Z",
@@ -5253,7 +5253,7 @@
     },
     {
       "videoId": "DyD8O2rl6lY",
-      "title": "6 novedades en las variables de Figma. Strokes, grids, strings...",
+      "title": "6 new features in Figma variables: Strokes, grids, strings...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-22T00:00:00Z",
@@ -5277,7 +5277,7 @@
     },
     {
       "videoId": "ImOGxWTxK5Q",
-      "title": "💰 Parte 2 - ¿El fin de Figma? Cuánto cue$ta tldraw + ChatGPT. Configuración, dibujando con iPAD. IA",
+      "title": "💰 Part 2 - The end of Figma? How much does tldraw + ChatGPT cost. Setup, drawing with iPad. AI",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-22T00:00:00Z",
@@ -7229,7 +7229,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
+      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-22T00:00:00Z",
@@ -7253,7 +7253,7 @@
     },
     {
       "videoId": "BXbCdnuUVGQ",
-      "title": "ClipDrop, magia en tus imágenes de Figma sin necesidad de Photoshop",
+      "title": "ClipDrop, magic for your Figma images without needing Photoshop",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-22T00:00:00Z",
