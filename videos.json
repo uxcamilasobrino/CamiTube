@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:08:18Z",
+  "generatedAt": "2026-10-22T02:58:08Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -43,6 +43,14 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "BgeGzGIVySM",
+      "title": "ChatGPT Pets Explained: Create Your Own Custom Desktop Pet",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-10-22T02:26:00Z",
+      "thumb": "https://i.ytimg.com/vi/BgeGzGIVySM/mqdefault.jpg"
+    },
     {
       "videoId": "ZNlVjEpAt3c",
       "title": "Design is over. Here's what comes next.",
@@ -3244,14 +3252,6 @@
       "thumb": "https://i.ytimg.com/vi/-aDkQH185FI/mqdefault.jpg"
     },
     {
-      "videoId": "OK79uXKKvI0",
-      "title": "🇯🇵 Made with  Figma Make  クリエイターが語る制作のプロセス",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-01-22T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/OK79uXKKvI0/mqdefault.jpg"
-    },
-    {
       "videoId": "5lUMA_WRzNw",
       "title": "How to Get Hired in UX Design (Case Study Method)",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -3314,6 +3314,14 @@
       "channelTitle": "Into Design Systems",
       "publishedAt": "2026-01-22T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/UPTLA2aNASA/mqdefault.jpg"
+    },
+    {
+      "videoId": "OK79uXKKvI0",
+      "title": "🇯🇵 Made with  Figma Make  クリエイターが語る制作のプロセス",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2025-12-22T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/OK79uXKKvI0/mqdefault.jpg"
     },
     {
       "videoId": "xSGYGDZXCW0",
@@ -3917,7 +3925,7 @@
     },
     {
       "videoId": "YsyXMdpILVQ",
-      "title": "The Swiss Army Knife of MCPs - StormMCP.ai - AI Design",
+      "title": "La navaja suiza de los MCPs - StormMCP.ai - Diseño con IA",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-22T00:00:00Z",
@@ -3981,7 +3989,7 @@
     },
     {
       "videoId": "Lu5XFFVp7a4",
-      "title": "Figma's Config London 2025 from the inside",
+      "title": "Config London 2025 de Figma desde dentro",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-22T00:00:00Z",
@@ -4021,7 +4029,7 @@
     },
     {
       "videoId": "f9njqDNfR0A",
-      "title": "New Figma Motion!! - What's New in Config 2025",
+      "title": "¡¡Nuevo Figma Motion!! - Novedades Config 2025",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-10-22T00:00:00Z",
@@ -6037,7 +6045,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Fixing the \"detach\" bug in Figma color variables",
+      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-22T00:00:00Z",
@@ -7229,7 +7237,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
+      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-22T00:00:00Z",
