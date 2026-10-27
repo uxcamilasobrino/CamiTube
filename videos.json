@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T17:17:26Z",
+  "generatedAt": "2026-10-27T21:43:45Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -44,11 +44,19 @@
   ],
   "videos": [
     {
+      "videoId": "BS-N-AM5ql4",
+      "title": "Explore Shaders and Motion with the Figma agent I Figma on Figma",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-10-27T20:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/BS-N-AM5ql4/mqdefault.jpg"
+    },
+    {
       "videoId": "1KHUh7pApCA",
       "title": "Figma Annotations for Developer Handoff | Crash Course",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
       "channelTitle": "UI Collective",
-      "publishedAt": "2026-10-27T13:00:00Z",
+      "publishedAt": "2026-10-27T14:00:00Z",
       "thumb": "https://i.ytimg.com/vi/1KHUh7pApCA/mqdefault.jpg"
     },
     {
@@ -93,7 +101,7 @@
     },
     {
       "videoId": "IFtq5aRG41M",
-      "title": "From Figma to Storybook: Build Components AI Can Actually Use",
+      "title": "From Figma to Storybook: Build Components AI Can Actually Use [October 2026]",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
       "publishedAt": "2026-10-23T00:00:00Z",
@@ -188,14 +196,6 @@
       "thumb": "https://i.ytimg.com/vi/nW4WDcJ_j2Y/mqdefault.jpg"
     },
     {
-      "videoId": "HjGF-qjqQZo",
-      "title": "Can Open-Source AI Actually Produce Better UI Design than Claude?",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-10-17T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/HjGF-qjqQZo/mqdefault.jpg"
-    },
-    {
       "videoId": "ukY9Dvwm7Gc",
       "title": "Design with Code Layers | Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -212,11 +212,19 @@
       "thumb": "https://i.ytimg.com/vi/Sdh_I7PSuew/mqdefault.jpg"
     },
     {
+      "videoId": "HjGF-qjqQZo",
+      "title": "Can Open-Source AI Actually Produce Better UI Design than Claude?",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/HjGF-qjqQZo/mqdefault.jpg"
+    },
+    {
       "videoId": "rbxNV3_mb-A",
       "title": "Figma for Edu: Working with typography systems",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-10-15T00:00:00Z",
+      "publishedAt": "2026-10-14T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/rbxNV3_mb-A/mqdefault.jpg"
     },
     {
@@ -636,14 +644,6 @@
       "thumb": "https://i.ytimg.com/vi/93BXNU6XewA/mqdefault.jpg"
     },
     {
-      "videoId": "F92SxeolvuM",
-      "title": "The 4 Files Every AI-Managed Design System Needs",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-09-28T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/F92SxeolvuM/mqdefault.jpg"
-    },
-    {
       "videoId": "DfQhO-VUDg8",
       "title": "Teaching AI Your Design System | Victor Nystad, Equinor",
       "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
@@ -890,6 +890,14 @@
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-08-28T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/nVofWAfsE3A/mqdefault.jpg"
+    },
+    {
+      "videoId": "F92SxeolvuM",
+      "title": "The 4 Files Every AI-Managed Design System Needs",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-08-28T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/F92SxeolvuM/mqdefault.jpg"
     },
     {
       "videoId": "6VP_JzlRLl0",
@@ -3060,22 +3068,6 @@
       "thumb": "https://i.ytimg.com/vi/gU8FqJDxO_0/mqdefault.jpg"
     },
     {
-      "videoId": "DuA8iPKokJk",
-      "title": "Getting started with Figma's Glass effect updates",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-02-28T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/DuA8iPKokJk/mqdefault.jpg"
-    },
-    {
-      "videoId": "Eoqq4rtPCu8",
-      "title": "New Glass effect updates",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-02-28T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Eoqq4rtPCu8/mqdefault.jpg"
-    },
-    {
       "videoId": "JMQ0X_si144",
       "title": "Design with Claude Code: The Designer’s Guide",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -3252,6 +3244,22 @@
       "thumb": "https://i.ytimg.com/vi/UTLxI9t4TbY/mqdefault.jpg"
     },
     {
+      "videoId": "DuA8iPKokJk",
+      "title": "Getting started with Figma's Glass effect updates",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-01-28T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/DuA8iPKokJk/mqdefault.jpg"
+    },
+    {
+      "videoId": "Eoqq4rtPCu8",
+      "title": "New Glass effect updates",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-01-28T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Eoqq4rtPCu8/mqdefault.jpg"
+    },
+    {
       "videoId": "ijleGoSxzgA",
       "title": "Creating a viral campaign in 30 mins using Figma's AI Image editing tools",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -3420,14 +3428,6 @@
       "thumb": "https://i.ytimg.com/vi/U-Ag-fRvq3g/mqdefault.jpg"
     },
     {
-      "videoId": "IVON-e6gOG8",
-      "title": "You can just Make things | Figma",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2025-12-28T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/IVON-e6gOG8/mqdefault.jpg"
-    },
-    {
       "videoId": "rOj7vKfnDLE",
       "title": "AI Built My Design System Docs Site (Figma MCP + Cursor)",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -3453,7 +3453,7 @@
     },
     {
       "videoId": "YVwo0Ka9XRw",
-      "title": "recreo x A Coruña - Cómo seguir creando cuando todo es generativo",
+      "title": "recreo x A Coruña - How to keep creating when everything is generative",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-12-28T00:00:00Z",
@@ -4933,7 +4933,7 @@
     },
     {
       "videoId": "HqFkqCVBGVY",
-      "title": "The fastest way to apply variables. Turbo Variable",
+      "title": "La manera más rápida  de aplicar variables. Turbo Variable",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -4965,7 +4965,7 @@
     },
     {
       "videoId": "x4prtZEwg60",
-      "title": "Aplica tus modos de variables de manera masiva en Figma. ¡En todo tu “file” a la vez!",
+      "title": "Apply your variable modes in bulk in Figma. To your entire file at once!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -4989,7 +4989,7 @@
     },
     {
       "videoId": "RSEOizzJwwQ",
-      "title": "10x. Variants en Figma mucho más rápidas.",
+      "title": "10x. Faster Figma variants.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -5005,7 +5005,7 @@
     },
     {
       "videoId": "kVGnhq4_pWg",
-      "title": "Control de versiones solo de variables en Figma. Increíble y súper útil.",
+      "title": "Version control specifically for Figma variables. Incredible and super useful.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -5061,7 +5061,7 @@
     },
     {
       "videoId": "VJ1LSfrrebQ",
-      "title": "¿Nuevo auto layout y CSS Grid en el Config 24' de Figma? Diseño con grids.",
+      "title": "New auto layout and CSS Grid in Figma's Config 24'? Design with grids.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -5117,7 +5117,7 @@
     },
     {
       "videoId": "KSXc3rL9iRg",
-      "title": "Password protection gratis para tu portfolio en Framer",
+      "title": "Free password protection for your Framer portfolio",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -5213,7 +5213,7 @@
     },
     {
       "videoId": "QSdF7JJ2SPw",
-      "title": "🤖 Cómo usar copilots en Figma, la IA que SÍ revolucionará el diseño en 2024. Buddy + FeedbackWizard",
+      "title": "🤖 How to use copilots in Figma, the AI ​​that WILL revolutionize design in 2024. Buddy + Feedback...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -5229,7 +5229,7 @@
     },
     {
       "videoId": "LeAYZn-Vb3w",
-      "title": "Cómo unir varios componentes locales y crear 1 librería remota única en Figma, sin perder instancias",
+      "title": "How to merge multiple local components into a single remote library in Figma without losing insta...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -5237,7 +5237,7 @@
     },
     {
       "videoId": "DyD8O2rl6lY",
-      "title": "6 novedades en las variables de Figma. Strokes, grids, strings...",
+      "title": "6 new features in Figma variables: Strokes, grids, strings...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -5261,7 +5261,7 @@
     },
     {
       "videoId": "ImOGxWTxK5Q",
-      "title": "💰 Parte 2 - ¿El fin de Figma? Cuánto cue$ta tldraw + ChatGPT. Configuración, dibujando con iPAD. IA",
+      "title": "💰 Part 2 - The end of Figma? How much does tldraw + ChatGPT cost. Setup, drawing with iPad. AI",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -5277,7 +5277,7 @@
     },
     {
       "videoId": "F-lSmSLrf9I",
-      "title": "Crea webs en Figma en 1 minuto con inteligencia artificial. Musho: ChatGPT-4 + Stable DiffusionXL",
+      "title": "Create websites in Figma in 1 minute with artificial intelligence. Musho: ChatGPT-4 + Stable Diff...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-10-28T00:00:00Z",
@@ -6061,7 +6061,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
+      "title": "Fixing the \"detach\" bug in Figma color variables",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-10-28T00:00:00Z",
@@ -7229,7 +7229,7 @@
     },
     {
       "videoId": "GihKIiPJJuc",
-      "title": "Documenting Deprecated Components and Quickly Relinking Instances with Master and Design System O...",
+      "title": "Documentar componentes obsoletos y relink rápido de instancias con Master y Design System Organizer",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-28T00:00:00Z",
@@ -7277,7 +7277,7 @@
     },
     {
       "videoId": "juhU1a2hHjA",
-      "title": "Controla el tamaño de tus componentes en Figma con min/max-width y min/max-height",
+      "title": "Control your component sizes in Figma using min/max-width and min/max-height",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-10-28T00:00:00Z",
