@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:10:41Z",
+  "generatedAt": "2026-11-06T04:46:39Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -44,11 +44,19 @@
   ],
   "videos": [
     {
+      "videoId": "tUnrxo0qTAw",
+      "title": "From Figma to Code: Build an Agent-Ready Design System With Claude",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-11-06T04:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/tUnrxo0qTAw/mqdefault.jpg"
+    },
+    {
       "videoId": "WEkebpRUXAo",
       "title": "Do You Need Figma Components If They Already Exist in Code?",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
-      "publishedAt": "2026-11-05T19:00:00Z",
+      "publishedAt": "2026-11-05T20:00:00Z",
       "thumb": "https://i.ytimg.com/vi/WEkebpRUXAo/mqdefault.jpg"
     },
     {
@@ -117,7 +125,7 @@
     },
     {
       "videoId": "SX5MSg2E8YQ",
-      "title": "What if Craigslist was Designed by Duolingo?",
+      "title": "Ex-Duolingo Designer Reimagines Craigslist",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-11-03T00:00:00Z",
@@ -141,7 +149,7 @@
     },
     {
       "videoId": "uJ3KtEEM66I",
-      "title": "How to NOT design AI SLOP",
+      "title": "Spotify designed SLOP but you cannot!",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
       "channelTitle": "Malewicz",
       "publishedAt": "2026-11-03T00:00:00Z",
@@ -1477,7 +1485,7 @@
     },
     {
       "videoId": "ZAR6pqhXu30",
-      "title": "Supernova's New Contexts",
+      "title": "Los Nuevos Contexts de Supernova",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-08-06T00:00:00Z",
@@ -3509,7 +3517,7 @@
     },
     {
       "videoId": "tj8fmjQFQHU",
-      "title": "How to Create Native Apps for ChatGPT - Complete Process, UX/UI, Dev, Monetization, and Store Sub...",
+      "title": "Cómo crear apps nativas para ChatGPT - Proceso completo, UX/UI, dev, monetización y subida a store",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-06T00:00:00Z",
@@ -3629,7 +3637,7 @@
     },
     {
       "videoId": "M4MNUvv1dW0",
-      "title": "IA, DevTools y MCPs en Chrome - El diseñador del futuro (en Design Systems)",
+      "title": "AI, DevTools, and MCPs in Chrome - The Designer of the Future (in Design Systems)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-12-06T00:00:00Z",
@@ -5021,7 +5029,7 @@
     },
     {
       "videoId": "x4prtZEwg60",
-      "title": "Apply your variable modes in bulk in Figma. To your entire file at once!",
+      "title": "Aplica tus modos de variables de manera masiva en Figma. ¡En todo tu “file” a la vez!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-06T00:00:00Z",
@@ -5245,7 +5253,7 @@
     },
     {
       "videoId": "OkoLDvnir5g",
-      "title": "Dev Mode de Figma ya es de pago. ¿Merece la pena? - 💰 Review: precio, integraciones...",
+      "title": "Figma's Dev Mode is now a paid feature. Is it worth it? - 💰 Review: price, integrations...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-06T00:00:00Z",
@@ -5317,7 +5325,7 @@
     },
     {
       "videoId": "ImOGxWTxK5Q",
-      "title": "💰 Part 2 - The end of Figma? How much does tldraw + ChatGPT cost. Setup, drawing with iPad. AI",
+      "title": "💰 Parte 2 - ¿El fin de Figma? Cuánto cue$ta tldraw + ChatGPT. Configuración, dibujando con iPAD. IA",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-06T00:00:00Z",
@@ -6037,7 +6045,7 @@
     },
     {
       "videoId": "qLKOLqWZICk",
-      "title": "🔥 🚀 😱 Document and organize your Figma variables in 1 second",
+      "title": "🔥 🚀 😱 Documenta y organiza tus variables de Figma en 1 segundo",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-06T00:00:00Z",
@@ -6125,7 +6133,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Fixing the \"detach\" bug in Figma color variables",
+      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-06T00:00:00Z",
@@ -7301,7 +7309,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
+      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-06T00:00:00Z",
