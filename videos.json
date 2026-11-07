@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:39:04Z",
+  "generatedAt": "2026-11-07T04:14:46Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -48,16 +48,8 @@
       "title": "Speed up design system documentation with the Figma agent",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-11-06T18:00:00Z",
+      "publishedAt": "2026-11-06T17:00:00Z",
       "thumb": "https://i.ytimg.com/vi/DkLg3FtrQe4/mqdefault.jpg"
-    },
-    {
-      "videoId": "tUnrxo0qTAw",
-      "title": "From Figma to Code: Build an Agent-Ready Design System With Claude",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-11-06T04:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/tUnrxo0qTAw/mqdefault.jpg"
     },
     {
       "videoId": "gX5teT-2kLo",
@@ -68,8 +60,16 @@
       "thumb": "https://i.ytimg.com/vi/gX5teT-2kLo/mqdefault.jpg"
     },
     {
+      "videoId": "tUnrxo0qTAw",
+      "title": "From Figma to Code: Build an Agent-Ready Design System With Claude",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/tUnrxo0qTAw/mqdefault.jpg"
+    },
+    {
       "videoId": "WEkebpRUXAo",
-      "title": "Do You Need Figma Components If They Already Exist in Code?",
+      "title": "Can Paper Replace Your Figma Component Library?",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
       "publishedAt": "2026-11-06T00:00:00Z",
@@ -157,7 +157,7 @@
     },
     {
       "videoId": "uJ3KtEEM66I",
-      "title": "How to NOT design AI SLOP",
+      "title": "Is INTER the SLOP font now?",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
       "channelTitle": "Malewicz",
       "publishedAt": "2026-11-03T00:00:00Z",
@@ -197,7 +197,7 @@
     },
     {
       "videoId": "yj90StgN70w",
-      "title": "A step-by-step guide to an agent-ready design system",
+      "title": "Make your Figma design system agent-ready",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-10-29T00:00:00Z",
@@ -325,7 +325,7 @@
     },
     {
       "videoId": "IFtq5aRG41M",
-      "title": "From Figma to Storybook: Build Components AI Can Actually Use [October 2026]",
+      "title": "From Figma to Storybook: Build Components AI Can Actually Use",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
       "publishedAt": "2026-10-24T00:00:00Z",
@@ -2077,7 +2077,7 @@
     },
     {
       "videoId": "9c1ZlWBpKrM",
-      "title": "From Figma to Code: Tokens, Documentation, and AI with Supernova",
+      "title": "De Figma a código: tokens, documentación e IA con Supernova",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-07-07T00:00:00Z",
@@ -2844,14 +2844,6 @@
       "thumb": "https://i.ytimg.com/vi/62Le7ks0dfw/mqdefault.jpg"
     },
     {
-      "videoId": "HuKTsfg3t-0",
-      "title": "Figma for Edu: FigBuild 2026 kickoff",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-04-07T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/HuKTsfg3t-0/mqdefault.jpg"
-    },
-    {
       "videoId": "9o-fe0noDFc",
       "title": "Figma Skills Explained",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -3034,6 +3026,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-04-07T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/qEwzCPGt9BQ/mqdefault.jpg"
+    },
+    {
+      "videoId": "HuKTsfg3t-0",
+      "title": "Figma for Edu: FigBuild 2026 kickoff",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-03-07T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/HuKTsfg3t-0/mqdefault.jpg"
     },
     {
       "videoId": "UjOVRUSdO14",
@@ -3637,7 +3637,7 @@
     },
     {
       "videoId": "M4MNUvv1dW0",
-      "title": "AI, DevTools, and MCPs in Chrome - The Designer of the Future (in Design Systems)",
+      "title": "IA, DevTools y MCPs en Chrome - El diseñador del futuro (en Design Systems)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-12-07T00:00:00Z",
@@ -3661,7 +3661,7 @@
     },
     {
       "videoId": "61UBGsScVTU",
-      "title": "How to Convert Figma Variables into Tokens for Development with Supernova",
+      "title": "Cómo Convertir Variables de Figma en Tokens para Desarrollo con Supernova",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2025-12-07T00:00:00Z",
@@ -3941,7 +3941,7 @@
     },
     {
       "videoId": "sxTQ7utiTYg",
-      "title": "Clone websites in 1 second and scale with AI in Figma Make - New vibe coding workflow",
+      "title": "Clona webs en 1 segundo y amplía con IA en Figma Make - Nuevo flujo de vibe coding",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-07T00:00:00Z",
@@ -3965,7 +3965,7 @@
     },
     {
       "videoId": "YsyXMdpILVQ",
-      "title": "La navaja suiza de los MCPs - StormMCP.ai - Diseño con IA",
+      "title": "The Swiss Army Knife of MCPs - StormMCP.ai - AI Design",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-07T00:00:00Z",
@@ -3981,7 +3981,7 @@
     },
     {
       "videoId": "kh0TFjxajaM",
-      "title": "Cap.2 - IA para diseñadores. MCPs desde 0: conectando tu diseño y tu IA ¡con todo!",
+      "title": "Chapter 2 - AI for Designers. MCPs from the Ground Up: Connecting Your Design and AI to Everything!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-07T00:00:00Z",
@@ -4117,7 +4117,7 @@
     },
     {
       "videoId": "26_zSrBlH9s",
-      "title": "Real-time accessibility workshop with Storybook - Figma.camp - Refresh",
+      "title": "Taller de accesibilidad en tiempo real con Storybook - Figma.camp - Refresh",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-07T00:00:00Z",
@@ -5029,7 +5029,7 @@
     },
     {
       "videoId": "x4prtZEwg60",
-      "title": "Aplica tus modos de variables de manera masiva en Figma. ¡En todo tu “file” a la vez!",
+      "title": "Apply your variable modes in bulk in Figma. To your entire file at once!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-07T00:00:00Z",
@@ -5133,7 +5133,7 @@
     },
     {
       "videoId": "rxjL3QW3-cM",
-      "title": "Unboxing + Figma Creator Micro Keyboard Setup - Review",
+      "title": "Unboxing + configuración de Figma Creator Micro Keyboard - Review",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-07T00:00:00Z",
@@ -5189,7 +5189,7 @@
     },
     {
       "videoId": "SYlJ3FLgQBE",
-      "title": "Headless, the future of design systems? How to do it in Figma",
+      "title": "Headless, ¿El futuro de los design systems? Cómo hacerlo en Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-07T00:00:00Z",
@@ -5325,7 +5325,7 @@
     },
     {
       "videoId": "ImOGxWTxK5Q",
-      "title": "💰 Part 2 - The end of Figma? How much does tldraw + ChatGPT cost. Setup, drawing with iPad. AI",
+      "title": "💰 Parte 2 - ¿El fin de Figma? Cuánto cue$ta tldraw + ChatGPT. Configuración, dibujando con iPAD. IA",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-07T00:00:00Z",
@@ -6133,7 +6133,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
+      "title": "Fixing the \"detach\" bug in Figma color variables",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-07T00:00:00Z",
@@ -6165,7 +6165,7 @@
     },
     {
       "videoId": "C1Eajx4xlRg",
-      "title": "Incluye archivos adjuntos en Figma (fonts, pdfs, mp4...) y accede desde diseño, handoff, Figjam...",
+      "title": "Include attachments in Figma (fonts, PDFs, mp4...) and access them from design, handoff, Figjam...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-07T00:00:00Z",
@@ -7293,7 +7293,7 @@
     },
     {
       "videoId": "GihKIiPJJuc",
-      "title": "Documentar componentes obsoletos y relink rápido de instancias con Master y Design System Organizer",
+      "title": "Documenting Deprecated Components and Quickly Relinking Instances with Master and Design System O...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-07T00:00:00Z",
@@ -7309,7 +7309,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
+      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-07T00:00:00Z",
@@ -7389,7 +7389,7 @@
     },
     {
       "videoId": "WQeJDsBgY1M",
-      "title": "Linting, cómo evitar inconsistencias y errores en tus files y componentes de Figma",
+      "title": "Linting: How to avoid inconsistencies and errors in your Figma files and components",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-07T00:00:00Z",
@@ -7445,7 +7445,7 @@
     },
     {
       "videoId": "RwmN5vJvwoI",
-      "title": "All the options for sharing your Figma prototypes without any hassle. Permissions (Free, Pro, and...",
+      "title": "Todas las opciones para compartir tus prototipos en Figma sin dramas. Permisos (Free, Pro y Org)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-07T00:00:00Z",
