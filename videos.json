@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:57:34Z",
+  "generatedAt": "2026-11-12T06:02:53Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -48,7 +48,7 @@
       "title": "Learn Figma Weave in 9 minutes",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-11-11T19:00:00Z",
+      "publishedAt": "2026-11-11T18:00:00Z",
       "thumb": "https://i.ytimg.com/vi/rYH3SIJWNHg/mqdefault.jpg"
     },
     {
@@ -61,19 +61,11 @@
     },
     {
       "videoId": "PZ6bYA6NsKo",
-      "title": "How to Fix AI Slop in Your App Design (My Workflow)",
+      "title": "How to Fix AI Slop in Your App Designs (My Workflow)",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
       "channelTitle": "UI Collective",
       "publishedAt": "2026-11-11T15:00:00Z",
       "thumb": "https://i.ytimg.com/vi/PZ6bYA6NsKo/mqdefault.jpg"
-    },
-    {
-      "videoId": "BH7FG6xM7uw",
-      "title": "Do We Still Need Figma? The Truth Behind the Trend",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-11-11T04:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/BH7FG6xM7uw/mqdefault.jpg"
     },
     {
       "videoId": "gB21amgymKw",
@@ -90,6 +82,14 @@
       "channelTitle": "Figma",
       "publishedAt": "2026-11-11T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/nFSyfoxwiFA/mqdefault.jpg"
+    },
+    {
+      "videoId": "BH7FG6xM7uw",
+      "title": "Why Designers Are Leaving Figma (And Why Most Shouldn't)",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/BH7FG6xM7uw/mqdefault.jpg"
     },
     {
       "videoId": "r-ndKlKNRqk",
@@ -117,7 +117,7 @@
     },
     {
       "videoId": "P2_8dTsno1s",
-      "title": "These Mobile mistakes drop conversion",
+      "title": "How good are these mobile sites?",
       "channelId": "UC_Dq0oUEi7uXhdUX8prunbw",
       "channelTitle": "Malewicz",
       "publishedAt": "2026-11-10T00:00:00Z",
@@ -324,14 +324,6 @@
       "thumb": "https://i.ytimg.com/vi/1JAQEgEVCKo/mqdefault.jpg"
     },
     {
-      "videoId": "BgeGzGIVySM",
-      "title": "ChatGPT Pets Explained: Create Your Own Custom Desktop Pet",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/BgeGzGIVySM/mqdefault.jpg"
-    },
-    {
       "videoId": "IFtq5aRG41M",
       "title": "From Figma to Storybook: Build Components AI Can Actually Use",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
@@ -410,6 +402,14 @@
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-10-22T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/nW4WDcJ_j2Y/mqdefault.jpg"
+    },
+    {
+      "videoId": "BgeGzGIVySM",
+      "title": "ChatGPT Pets Explained: Create Your Own Custom Desktop Pet",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/BgeGzGIVySM/mqdefault.jpg"
     },
     {
       "videoId": "BuO78FgTTP8",
@@ -741,7 +741,7 @@
     },
     {
       "videoId": "j5yRBcPS96I",
-      "title": "Las nuevas métricas del Design System",
+      "title": "The New Design System Metrics",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-10-12T00:00:00Z",
@@ -778,14 +778,6 @@
       "channelTitle": "The Design Project",
       "publishedAt": "2026-10-12T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/-wFNWmtRt_k/mqdefault.jpg"
-    },
-    {
-      "videoId": "DfQhO-VUDg8",
-      "title": "Teaching AI Your Design System | Victor Nystad, Equinor",
-      "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
-      "channelTitle": "Into Design Systems",
-      "publishedAt": "2026-10-12T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/DfQhO-VUDg8/mqdefault.jpg"
     },
     {
       "videoId": "mtGZfx7gWMU",
@@ -1018,6 +1010,14 @@
       "channelTitle": "The Design Project",
       "publishedAt": "2026-09-12T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/6VP_JzlRLl0/mqdefault.jpg"
+    },
+    {
+      "videoId": "DfQhO-VUDg8",
+      "title": "Teaching AI Your Design System | Victor Nystad, Equinor",
+      "channelId": "UCLVaU9sKd2vDfbmbQUM5p6g",
+      "channelTitle": "Into Design Systems",
+      "publishedAt": "2026-09-12T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/DfQhO-VUDg8/mqdefault.jpg"
     },
     {
       "videoId": "tfAnZ4E2YRE",
@@ -1253,7 +1253,7 @@
     },
     {
       "videoId": "ZAR6pqhXu30",
-      "title": "Los Nuevos Contexts de Supernova",
+      "title": "Supernova's New Contexts",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-08-12T00:00:00Z",
@@ -2341,7 +2341,7 @@
     },
     {
       "videoId": "6-6G3q827QE",
-      "title": "Refresh - Seniors en tiempos de IA - ¿Adaptarse o morir? Shift+R",
+      "title": "Refresh - Seniors in the Age of AI - Adapt or Die? Shift+R",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-06-12T00:00:00Z",
@@ -2402,14 +2402,6 @@
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-06-12T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/ud2569IfT5k/mqdefault.jpg"
-    },
-    {
-      "videoId": "9WGxgeheF9M",
-      "title": "Prepare the Design System Documentation for AI",
-      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
-      "channelTitle": "Marta Conde",
-      "publishedAt": "2026-06-12T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/9WGxgeheF9M/mqdefault.jpg"
     },
     {
       "videoId": "Z-CKUQSS8AY",
@@ -2674,6 +2666,14 @@
       "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-05-12T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/BW3pBEZSfcQ/mqdefault.jpg"
+    },
+    {
+      "videoId": "9WGxgeheF9M",
+      "title": "Prepare the Design System Documentation for AI",
+      "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
+      "channelTitle": "Marta Conde",
+      "publishedAt": "2026-05-12T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/9WGxgeheF9M/mqdefault.jpg"
     },
     {
       "videoId": "QFus-6HYvAg",
@@ -3541,7 +3541,7 @@
     },
     {
       "videoId": "tj8fmjQFQHU",
-      "title": "Cómo crear apps nativas para ChatGPT - Proceso completo, UX/UI, dev, monetización y subida a store",
+      "title": "How to Create Native Apps for ChatGPT - Complete Process, UX/UI, Dev, Monetization, and Store Sub...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-01-12T00:00:00Z",
@@ -3957,7 +3957,7 @@
     },
     {
       "videoId": "sxTQ7utiTYg",
-      "title": "Clona webs en 1 segundo y amplía con IA en Figma Make - Nuevo flujo de vibe coding",
+      "title": "Clone websites in 1 second and scale with AI in Figma Make - New vibe coding workflow",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-12T00:00:00Z",
@@ -3965,7 +3965,7 @@
     },
     {
       "videoId": "aVu1OaLTx5E",
-      "title": "¿Te quedas sin plan Education en Figma? Hacks y soluciones para sobrevivir",
+      "title": "Are you stuck with the Education plan in Figma? Hacks and solutions to help you survive.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-12T00:00:00Z",
@@ -4045,7 +4045,7 @@
     },
     {
       "videoId": "Lu5XFFVp7a4",
-      "title": "Config London 2025 de Figma desde dentro",
+      "title": "Figma's Config London 2025 from the inside",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-12T00:00:00Z",
@@ -4133,7 +4133,7 @@
     },
     {
       "videoId": "26_zSrBlH9s",
-      "title": "Taller de accesibilidad en tiempo real con Storybook - Figma.camp - Refresh",
+      "title": "Real-time accessibility workshop with Storybook - Figma.camp - Refresh",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-12T00:00:00Z",
@@ -5061,7 +5061,7 @@
     },
     {
       "videoId": "x4prtZEwg60",
-      "title": "Aplica tus modos de variables de manera masiva en Figma. ¡En todo tu “file” a la vez!",
+      "title": "Apply your variable modes in bulk in Figma. To your entire file at once!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-12T00:00:00Z",
@@ -5213,7 +5213,7 @@
     },
     {
       "videoId": "KSXc3rL9iRg",
-      "title": "Password protection gratis para tu portfolio en Framer",
+      "title": "Free password protection for your Framer portfolio",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-12T00:00:00Z",
@@ -5333,7 +5333,7 @@
     },
     {
       "videoId": "DyD8O2rl6lY",
-      "title": "6 novedades en las variables de Figma. Strokes, grids, strings...",
+      "title": "6 new features in Figma variables: Strokes, grids, strings...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-12T00:00:00Z",
@@ -6237,7 +6237,7 @@
     },
     {
       "videoId": "OBimJyKhqD4",
-      "title": "8 trucos de variables en Figma que NO conoces",
+      "title": "8 Figma Variable Tricks You Didn't Know",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-12T00:00:00Z",
@@ -7293,7 +7293,7 @@
     },
     {
       "videoId": "GihKIiPJJuc",
-      "title": "Documenting Deprecated Components and Quickly Relinking Instances with Master and Design System O...",
+      "title": "Documentar componentes obsoletos y relink rápido de instancias con Master y Design System Organizer",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-12T00:00:00Z",
