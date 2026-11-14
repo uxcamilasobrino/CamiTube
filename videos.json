@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:09:51Z",
+  "generatedAt": "2026-11-14T04:38:07Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -48,7 +48,7 @@
       "title": "3D Transforms are now in Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-11-13T22:00:00Z",
+      "publishedAt": "2026-11-13T23:00:00Z",
       "thumb": "https://i.ytimg.com/vi/IqrOeK4gyWg/mqdefault.jpg"
     },
     {
@@ -64,16 +64,8 @@
       "title": "Figma Killers and AI: The Design Landscape as of Late 2026",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-11-13T08:00:00Z",
+      "publishedAt": "2026-11-13T09:00:00Z",
       "thumb": "https://i.ytimg.com/vi/TkBB20p_oSg/mqdefault.jpg"
-    },
-    {
-      "videoId": "GKOWmRq4XJk",
-      "title": "GitHub for Designers: The Complete Beginner Course (with Claude & Codex)",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-11-13T04:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/GKOWmRq4XJk/mqdefault.jpg"
     },
     {
       "videoId": "cMi4W1OeR7s",
@@ -98,6 +90,14 @@
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2026-11-13T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/mmrjy0fpCYA/mqdefault.jpg"
+    },
+    {
+      "videoId": "GKOWmRq4XJk",
+      "title": "GitHub for Designers: The Complete Beginner Course (with Claude & Codex)",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/GKOWmRq4XJk/mqdefault.jpg"
     },
     {
       "videoId": "BgeGzGIVySM",
@@ -140,16 +140,8 @@
       "thumb": "https://i.ytimg.com/vi/PZ6bYA6NsKo/mqdefault.jpg"
     },
     {
-      "videoId": "BH7FG6xM7uw",
-      "title": "Why Designers Are Leaving Figma (And Why Most Shouldn't)",
-      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
-      "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/BH7FG6xM7uw/mqdefault.jpg"
-    },
-    {
       "videoId": "gB21amgymKw",
-      "title": "24 Hours with Special Offer Founder & Art Director, Brent David Freaney I Day in the Life",
+      "title": "Brent David Freaney Shares the Design Process Behind Madonna's Confessions II - Day in the Life",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-11-11T00:00:00Z",
@@ -164,12 +156,12 @@
       "thumb": "https://i.ytimg.com/vi/nFSyfoxwiFA/mqdefault.jpg"
     },
     {
-      "videoId": "7BvJDTuTK-U",
-      "title": "Config India 2026: Figma deep dive: Design together with code on the canvas",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
+      "videoId": "BH7FG6xM7uw",
+      "title": "Do We Still Need Figma? The Truth Behind the Trend",
+      "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
+      "channelTitle": "AI Design Professor | Nehmat Gereige",
       "publishedAt": "2026-11-11T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/7BvJDTuTK-U/mqdefault.jpg"
+      "thumb": "https://i.ytimg.com/vi/BH7FG6xM7uw/mqdefault.jpg"
     },
     {
       "videoId": "r-ndKlKNRqk",
@@ -178,6 +170,14 @@
       "channelTitle": "Into Design Systems",
       "publishedAt": "2026-11-11T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/r-ndKlKNRqk/mqdefault.jpg"
+    },
+    {
+      "videoId": "7BvJDTuTK-U",
+      "title": "Config India 2026: Figma deep dive: Design together with code on the canvas",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/7BvJDTuTK-U/mqdefault.jpg"
     },
     {
       "videoId": "tUnrxo0qTAw",
@@ -1021,7 +1021,7 @@
     },
     {
       "videoId": "nVofWAfsE3A",
-      "title": "Consigue feedback de tu Design System sin pedirlo con Supernova",
+      "title": "Get Design System feedback without asking using Supernova",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-09-14T00:00:00Z",
@@ -2429,7 +2429,7 @@
     },
     {
       "videoId": "C2OFx9UlHAE",
-      "title": "My entire ADHD and Dyslexia diagnosis",
+      "title": "Todo mi diagnóstico de TDAH y Dislexia",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-06-14T00:00:00Z",
@@ -3485,7 +3485,7 @@
     },
     {
       "videoId": "m5SZQ5cd6Gc",
-      "title": "Supernova vs. Zeroheight: Which Tool Should You Choose to Document Your Design System?",
+      "title": "Supernova vs Zeroheight: ¿Qué herramienta elegir para documentar tu Design System?",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-02-14T00:00:00Z",
@@ -4005,7 +4005,7 @@
     },
     {
       "videoId": "YsyXMdpILVQ",
-      "title": "La navaja suiza de los MCPs - StormMCP.ai - Diseño con IA",
+      "title": "The Swiss Army Knife of MCPs - StormMCP.ai - AI Design",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-14T00:00:00Z",
@@ -4013,7 +4013,7 @@
     },
     {
       "videoId": "8N_ZrT70Ie4",
-      "title": "Ch. 3 - AI for Designers. AI Agents at the Wheel, the Revolution of Your Design Workflow",
+      "title": "Cap.3 - IA para diseñadores. Agentes de IA al volante, la revolución de tu flujo de diseño",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-14T00:00:00Z",
@@ -4069,7 +4069,7 @@
     },
     {
       "videoId": "Lu5XFFVp7a4",
-      "title": "Config London 2025 de Figma desde dentro",
+      "title": "Figma's Config London 2025 from the inside",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-14T00:00:00Z",
@@ -4125,7 +4125,7 @@
     },
     {
       "videoId": "TzI-tfa65nQ",
-      "title": "¿Será Paper.design la herramienta que destrone a Figma?",
+      "title": "Will Paper.design be the tool that dethrones Figma?",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-14T00:00:00Z",
@@ -4157,7 +4157,7 @@
     },
     {
       "videoId": "26_zSrBlH9s",
-      "title": "Real-time accessibility workshop with Storybook - Figma.camp - Refresh",
+      "title": "Taller de accesibilidad en tiempo real con Storybook - Figma.camp - Refresh",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-14T00:00:00Z",
@@ -5053,7 +5053,7 @@
     },
     {
       "videoId": "HqFkqCVBGVY",
-      "title": "The fastest way to apply variables. Turbo Variable",
+      "title": "La manera más rápida  de aplicar variables. Turbo Variable",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-14T00:00:00Z",
@@ -5085,7 +5085,7 @@
     },
     {
       "videoId": "x4prtZEwg60",
-      "title": "Apply your variable modes in bulk in Figma. To your entire file at once!",
+      "title": "Aplica tus modos de variables de manera masiva en Figma. ¡En todo tu “file” a la vez!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-14T00:00:00Z",
@@ -5109,7 +5109,7 @@
     },
     {
       "videoId": "RSEOizzJwwQ",
-      "title": "10x. Variants en Figma mucho más rápidas.",
+      "title": "10x. Faster Figma variants.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-14T00:00:00Z",
@@ -5125,7 +5125,7 @@
     },
     {
       "videoId": "kVGnhq4_pWg",
-      "title": "Version control specifically for Figma variables. Incredible and super useful.",
+      "title": "Control de versiones solo de variables en Figma. Increíble y súper útil.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-14T00:00:00Z",
@@ -5189,7 +5189,7 @@
     },
     {
       "videoId": "rxjL3QW3-cM",
-      "title": "Unboxing + configuración de Figma Creator Micro Keyboard - Review",
+      "title": "Unboxing + Figma Creator Micro Keyboard Setup - Review",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-14T00:00:00Z",
@@ -5213,7 +5213,7 @@
     },
     {
       "videoId": "e41RRSMWV8k",
-      "title": "Creando la cover de Figma perfecta - ¿Actualización auto o no?",
+      "title": "Creating the Perfect Figma Cover - Auto-update or not?",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-14T00:00:00Z",
@@ -5293,7 +5293,7 @@
     },
     {
       "videoId": "PpQ_JZWsIJ8",
-      "title": "Trucos para dominar el focus en Figma ¡Nivel PRO! 🔥",
+      "title": "Mastering Focus States in Figma: PRO Tips! 🔥",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-14T00:00:00Z",
@@ -5333,7 +5333,7 @@
     },
     {
       "videoId": "QSdF7JJ2SPw",
-      "title": "🤖 Cómo usar copilots en Figma, la IA que SÍ revolucionará el diseño en 2024. Buddy + FeedbackWizard",
+      "title": "🤖 How to use copilots in Figma, the AI ​​that WILL revolutionize design in 2024. Buddy + Feedback...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-14T00:00:00Z",
@@ -6069,7 +6069,7 @@
     },
     {
       "videoId": "F-lSmSLrf9I",
-      "title": "Crea webs en Figma en 1 minuto con inteligencia artificial. Musho: ChatGPT-4 + Stable DiffusionXL",
+      "title": "Create websites in Figma in 1 minute with artificial intelligence. Musho: ChatGPT-4 + Stable Diff...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-14T00:00:00Z",
@@ -6101,7 +6101,7 @@
     },
     {
       "videoId": "qLKOLqWZICk",
-      "title": "🔥 🚀 😱 Documenta y organiza tus variables de Figma en 1 segundo",
+      "title": "🔥 🚀 😱 Document and organize your Figma variables in 1 second",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-14T00:00:00Z",
@@ -6221,7 +6221,7 @@
     },
     {
       "videoId": "C1Eajx4xlRg",
-      "title": "Include attachments in Figma (fonts, PDFs, mp4...) and access them from design, handoff, Figjam...",
+      "title": "Incluye archivos adjuntos en Figma (fonts, pdfs, mp4...) y accede desde diseño, handoff, Figjam...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-14T00:00:00Z",
@@ -7317,7 +7317,7 @@
     },
     {
       "videoId": "GihKIiPJJuc",
-      "title": "Documenting Deprecated Components and Quickly Relinking Instances with Master and Design System O...",
+      "title": "Documentar componentes obsoletos y relink rápido de instancias con Master y Design System Organizer",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-14T00:00:00Z",
@@ -7333,7 +7333,7 @@
     },
     {
       "videoId": "TH41I6iI7LQ",
-      "title": "Apply vertical rhythm (for real) in Figma with leading-trim",
+      "title": "Aplica ritmo vertical (pero de verdad) en Figma con leading-trim",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-14T00:00:00Z",
@@ -7413,7 +7413,7 @@
     },
     {
       "videoId": "WQeJDsBgY1M",
-      "title": "Linting: How to avoid inconsistencies and errors in your Figma files and components",
+      "title": "Linting, cómo evitar inconsistencias y errores en tus files y componentes de Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-14T00:00:00Z",
@@ -7437,7 +7437,7 @@
     },
     {
       "videoId": "fn72EHgQgrA",
-      "title": "Figma Tokens (Video 3/3) How to create styles that Figma doesn't natively allow? Borders, radius...",
+      "title": "Figma Tokens (Vídeo 3/3) ¿Cómo crear estilos que Figma no permite de forma nativa? Bordes, radius...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-14T00:00:00Z",
