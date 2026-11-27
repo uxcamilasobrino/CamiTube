@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:14:15Z",
+  "generatedAt": "2026-11-27T01:24:57Z",
   "channels": [
     {
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -45,10 +45,10 @@
   "videos": [
     {
       "videoId": "kuwTjc02fog",
-      "title": "Design in the Age of AI: Your Value as a Designer Isn't the Prototype",
+      "title": "How Designers Stay Valuable in the Age of AI: 3 Steps",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
       "channelTitle": "AI Design Professor | Nehmat Gereige",
-      "publishedAt": "2026-11-25T20:00:00Z",
+      "publishedAt": "2026-11-26T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/kuwTjc02fog/mqdefault.jpg"
     },
     {
@@ -72,15 +72,15 @@
       "title": "How Figma’s Motion Team Launched 3D Transform in the Canvas I Figma on Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-11-22T00:00:00Z",
+      "publishedAt": "2026-11-21T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/3WvRF5yn47k/mqdefault.jpg"
     },
     {
       "videoId": "_BBJl6LwHlU",
-      "title": "A24, Lionsgate & HBO Designer Breaks Down the Psychology of Movie Posters",
+      "title": "Designer Breaks Down How Movie Posters Manipulate Your Attention",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/_BBJl6LwHlU/mqdefault.jpg"
     },
     {
@@ -88,7 +88,7 @@
       "title": "How to Keep Your Design System Consistent With Storybook",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "publishedAt": "2026-11-20T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/E1Fq2JVnZXo/mqdefault.jpg"
     },
     {
@@ -101,19 +101,11 @@
     },
     {
       "videoId": "9u_DZRaPTV8",
-      "title": "How to apply 3D transform in Figma",
+      "title": "Learn 3D transform in Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
       "publishedAt": "2026-11-17T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/9u_DZRaPTV8/mqdefault.jpg"
-    },
-    {
-      "videoId": "87SISSxj6R4",
-      "title": "Config India 2026: Figma deep dive: Nothing lost in translation, from canvas to production",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-11-17T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/87SISSxj6R4/mqdefault.jpg"
     },
     {
       "videoId": "Bhc3CL-cQm0",
@@ -132,6 +124,14 @@
       "thumb": "https://i.ytimg.com/vi/BH7FG6xM7uw/mqdefault.jpg"
     },
     {
+      "videoId": "87SISSxj6R4",
+      "title": "Config India 2026: Figma deep dive: Nothing lost in translation, from canvas to production",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/87SISSxj6R4/mqdefault.jpg"
+    },
+    {
       "videoId": "znW1i7AQdPI",
       "title": "Config India 2026: Figma Weave: What we keep in creative work and what we refuse to automate",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
@@ -144,7 +144,7 @@
       "title": "3D Transforms are now in Figma",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-11-15T00:00:00Z",
+      "publishedAt": "2026-11-14T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/IqrOeK4gyWg/mqdefault.jpg"
     },
     {
@@ -152,24 +152,8 @@
       "title": "Config India 2026: Better together: from handoff to handshake",
       "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
       "channelTitle": "Figma",
-      "publishedAt": "2026-11-15T00:00:00Z",
+      "publishedAt": "2026-11-14T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/boZ85l-ShJM/mqdefault.jpg"
-    },
-    {
-      "videoId": "cMi4W1OeR7s",
-      "title": "Config India 2026: Designing for intelligent work: inside Microsoft Copilot's new chapter",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/cMi4W1OeR7s/mqdefault.jpg"
-    },
-    {
-      "videoId": "X-o75wR1LvQ",
-      "title": "Figma Motion basics: Spotlight",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/X-o75wR1LvQ/mqdefault.jpg"
     },
     {
       "videoId": "TkBB20p_oSg",
@@ -188,12 +172,20 @@
       "thumb": "https://i.ytimg.com/vi/GKOWmRq4XJk/mqdefault.jpg"
     },
     {
-      "videoId": "cIXs-x7ly4w",
-      "title": "Claude Code for Designers: Build Your Own AI Assistant",
-      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
-      "channelTitle": "The Design Project",
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/cIXs-x7ly4w/mqdefault.jpg"
+      "videoId": "cMi4W1OeR7s",
+      "title": "Config India 2026: Designing for intelligent work: inside Microsoft Copilot's new chapter",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/cMi4W1OeR7s/mqdefault.jpg"
+    },
+    {
+      "videoId": "X-o75wR1LvQ",
+      "title": "Figma Motion basics: Spotlight",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/X-o75wR1LvQ/mqdefault.jpg"
     },
     {
       "videoId": "rYH3SIJWNHg",
@@ -244,14 +236,6 @@
       "thumb": "https://i.ytimg.com/vi/DkLg3FtrQe4/mqdefault.jpg"
     },
     {
-      "videoId": "gX5teT-2kLo",
-      "title": "Config India 2026: Taking stupid seriously with Soren Iverson",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/gX5teT-2kLo/mqdefault.jpg"
-    },
-    {
       "videoId": "PZ6bYA6NsKo",
       "title": "How to Fix AI Slop in Your App Designs (My Workflow)",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -284,12 +268,12 @@
       "thumb": "https://i.ytimg.com/vi/tUnrxo0qTAw/mqdefault.jpg"
     },
     {
-      "videoId": "WEkebpRUXAo",
-      "title": "Do You Need Figma Components If They Already Exist in Code?",
+      "videoId": "cIXs-x7ly4w",
+      "title": "Claude Code for Designers: Build Your Own AI Assistant",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
       "publishedAt": "2026-11-13T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/WEkebpRUXAo/mqdefault.jpg"
+      "thumb": "https://i.ytimg.com/vi/cIXs-x7ly4w/mqdefault.jpg"
     },
     {
       "videoId": "r-ndKlKNRqk",
@@ -306,6 +290,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-11-13T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/P2_8dTsno1s/mqdefault.jpg"
+    },
+    {
+      "videoId": "gX5teT-2kLo",
+      "title": "Config India 2026: Taking stupid seriously with Soren Iverson",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/gX5teT-2kLo/mqdefault.jpg"
     },
     {
       "videoId": "eXJnOj1vVyQ",
@@ -338,14 +330,6 @@
       "channelTitle": "Figma",
       "publishedAt": "2026-11-06T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/SX5MSg2E8YQ/mqdefault.jpg"
-    },
-    {
-      "videoId": "gbC42PwJH-g",
-      "title": "lo-fi beats and Figma shader animations to design to I Afterimage NYC, Figma for Edu",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/gbC42PwJH-g/mqdefault.jpg"
     },
     {
       "videoId": "uzQCZD3w3hs",
@@ -396,12 +380,12 @@
       "thumb": "https://i.ytimg.com/vi/OmVAi6qxaU8/mqdefault.jpg"
     },
     {
-      "videoId": "XIBQ5fpb_28",
-      "title": "What Is Storybook? A Guide for Designers, Founders, and PMs",
+      "videoId": "WEkebpRUXAo",
+      "title": "Do You Need Figma Components If They Already Exist in Code?",
       "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
       "channelTitle": "The Design Project",
       "publishedAt": "2026-11-06T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/XIBQ5fpb_28/mqdefault.jpg"
+      "thumb": "https://i.ytimg.com/vi/WEkebpRUXAo/mqdefault.jpg"
     },
     {
       "videoId": "e6RJWpAOhxc",
@@ -418,6 +402,14 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-11-06T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/uJ3KtEEM66I/mqdefault.jpg"
+    },
+    {
+      "videoId": "gbC42PwJH-g",
+      "title": "lo-fi beats and Figma shader animations to design to I Afterimage NYC, Figma for Edu",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/gbC42PwJH-g/mqdefault.jpg"
     },
     {
       "videoId": "9xP_EZlWdbc",
@@ -444,20 +436,28 @@
       "thumb": "https://i.ytimg.com/vi/BS-N-AM5ql4/mqdefault.jpg"
     },
     {
-      "videoId": "oa3xQ1Xi0Jk",
-      "title": "Config India 2026: What makes the House of Masaba feel like Masaba",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/oa3xQ1Xi0Jk/mqdefault.jpg"
-    },
-    {
       "videoId": "1KHUh7pApCA",
       "title": "Figma Annotations for Developer Handoff | Crash Course",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
       "channelTitle": "UI Collective",
       "publishedAt": "2026-10-30T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/1KHUh7pApCA/mqdefault.jpg"
+    },
+    {
+      "videoId": "XIBQ5fpb_28",
+      "title": "What Is Storybook? A Guide for Designers, Founders, and PMs",
+      "channelId": "UC3OkbW0nUSFjKCpjO2_Mj5w",
+      "channelTitle": "The Design Project",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/XIBQ5fpb_28/mqdefault.jpg"
+    },
+    {
+      "videoId": "oa3xQ1Xi0Jk",
+      "title": "Config India 2026: What makes the House of Masaba feel like Masaba",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/oa3xQ1Xi0Jk/mqdefault.jpg"
     },
     {
       "videoId": "dOr3UsOlunY",
@@ -1268,14 +1268,6 @@
       "thumb": "https://i.ytimg.com/vi/-C4Domwr_XM/mqdefault.jpg"
     },
     {
-      "videoId": "AM5jzu6Be3k",
-      "title": "Codex Micro, unboxing + REVIEW - A clockwork AI",
-      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
-      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
-      "publishedAt": "2026-08-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/AM5jzu6Be3k/mqdefault.jpg"
-    },
-    {
       "videoId": "GNsVHcJEf38",
       "title": "How to Use AI in UX Design: Complete Step-by-Step Process",
       "channelId": "UC9UUS1lPiLjgy9kOczpXN-g",
@@ -1924,78 +1916,6 @@
       "thumb": "https://i.ytimg.com/vi/mdxJNKM3AMc/mqdefault.jpg"
     },
     {
-      "videoId": "D5WUW9X_-L0",
-      "title": "Figma deep dive: Agentic workflows and the MCP | Config 2026",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/D5WUW9X_-L0/mqdefault.jpg"
-    },
-    {
-      "videoId": "q_-udq6jXpw",
-      "title": "Figma deep dive: Make | Config 2026",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/q_-udq6jXpw/mqdefault.jpg"
-    },
-    {
-      "videoId": "0HqSSIPZkbI",
-      "title": "Figma deep dive: Agents | Config 2026",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/0HqSSIPZkbI/mqdefault.jpg"
-    },
-    {
-      "videoId": "y_2_w-r9TYY",
-      "title": "Figma deep dive: Generative shader effects | Config 2026",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/y_2_w-r9TYY/mqdefault.jpg"
-    },
-    {
-      "videoId": "5g7c4-EtmS8",
-      "title": "Figma deep dive: Agent-built plugins | Config 2026",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/5g7c4-EtmS8/mqdefault.jpg"
-    },
-    {
-      "videoId": "3evAfmLVZK8",
-      "title": "Figma deep dive: Motion | Config 2026",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/3evAfmLVZK8/mqdefault.jpg"
-    },
-    {
-      "videoId": "Q3BkuQRBg-w",
-      "title": "Designing in code | Config 2026",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Q3BkuQRBg-w/mqdefault.jpg"
-    },
-    {
-      "videoId": "bLSLN96Gn-w",
-      "title": "Designing Math ft. Grant Sanderson (3Blue1Brown) I Config 2026",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/bLSLN96Gn-w/mqdefault.jpg"
-    },
-    {
-      "videoId": "Yz03ERsfDDM",
-      "title": "Death of the finished state ft. Brent David Freaney (Special Offer) | Config 2026",
-      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
-      "channelTitle": "Figma",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/Yz03ERsfDDM/mqdefault.jpg"
-    },
-    {
       "videoId": "jO-wH4zgJV0",
       "title": "Web Design with Claude Code: The Complete Guide",
       "channelId": "UCBB1ZWZyf0RaKuHgpTjpcug",
@@ -2018,6 +1938,14 @@
       "channelTitle": "UI Collective",
       "publishedAt": "2026-07-27T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/HMoOSt6ye3k/mqdefault.jpg"
+    },
+    {
+      "videoId": "AM5jzu6Be3k",
+      "title": "Codex Micro, unboxing + REVIEW - A clockwork AI",
+      "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
+      "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
+      "publishedAt": "2026-07-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/AM5jzu6Be3k/mqdefault.jpg"
     },
     {
       "videoId": "Z7BTMrux79s",
@@ -2053,7 +1981,7 @@
     },
     {
       "videoId": "ZAR6pqhXu30",
-      "title": "Los Nuevos Contexts de Supernova",
+      "title": "Supernova's New Contexts",
       "channelId": "UCQ32Fe_6w9H9wRmYfGrmLDQ",
       "channelTitle": "Marta Conde",
       "publishedAt": "2026-07-27T00:00:00Z",
@@ -2122,6 +2050,78 @@
       "channelTitle": "Malewicz",
       "publishedAt": "2026-07-27T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/kDZdbfXUndQ/mqdefault.jpg"
+    },
+    {
+      "videoId": "D5WUW9X_-L0",
+      "title": "Figma deep dive: Agentic workflows and the MCP | Config 2026",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-06-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/D5WUW9X_-L0/mqdefault.jpg"
+    },
+    {
+      "videoId": "q_-udq6jXpw",
+      "title": "Figma deep dive: Make | Config 2026",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-06-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/q_-udq6jXpw/mqdefault.jpg"
+    },
+    {
+      "videoId": "0HqSSIPZkbI",
+      "title": "Figma deep dive: Agents | Config 2026",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-06-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/0HqSSIPZkbI/mqdefault.jpg"
+    },
+    {
+      "videoId": "y_2_w-r9TYY",
+      "title": "Figma deep dive: Generative shader effects | Config 2026",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-06-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/y_2_w-r9TYY/mqdefault.jpg"
+    },
+    {
+      "videoId": "5g7c4-EtmS8",
+      "title": "Figma deep dive: Agent-built plugins | Config 2026",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-06-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/5g7c4-EtmS8/mqdefault.jpg"
+    },
+    {
+      "videoId": "3evAfmLVZK8",
+      "title": "Figma deep dive: Motion | Config 2026",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-06-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/3evAfmLVZK8/mqdefault.jpg"
+    },
+    {
+      "videoId": "Q3BkuQRBg-w",
+      "title": "Designing in code | Config 2026",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-06-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Q3BkuQRBg-w/mqdefault.jpg"
+    },
+    {
+      "videoId": "bLSLN96Gn-w",
+      "title": "Designing Math ft. Grant Sanderson (3Blue1Brown) I Config 2026",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-06-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/bLSLN96Gn-w/mqdefault.jpg"
+    },
+    {
+      "videoId": "Yz03ERsfDDM",
+      "title": "Death of the finished state ft. Brent David Freaney (Special Offer) | Config 2026",
+      "channelId": "UCQsVmhSa4X-G3lHlUtejzLA",
+      "channelTitle": "Figma",
+      "publishedAt": "2026-06-27T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Yz03ERsfDDM/mqdefault.jpg"
     },
     {
       "videoId": "pIOjkJXbZ_o",
@@ -3629,7 +3629,7 @@
     },
     {
       "videoId": "tj8fmjQFQHU",
-      "title": "How to Create Native Apps for ChatGPT - Complete Process, UX/UI, Dev, Monetization, and Store Sub...",
+      "title": "Cómo crear apps nativas para ChatGPT - Proceso completo, UX/UI, dev, monetización y subida a store",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-12-27T00:00:00Z",
@@ -3637,7 +3637,7 @@
     },
     {
       "videoId": "YVwo0Ka9XRw",
-      "title": "recreo x A Coruña - Cómo seguir creando cuando todo es generativo",
+      "title": "recreo x A Coruña - How to keep creating when everything is generative",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-12-27T00:00:00Z",
@@ -3949,7 +3949,7 @@
     },
     {
       "videoId": "M4MNUvv1dW0",
-      "title": "IA, DevTools y MCPs en Chrome - El diseñador del futuro (en Design Systems)",
+      "title": "AI, DevTools, and MCPs in Chrome - The Designer of the Future (in Design Systems)",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-27T00:00:00Z",
@@ -4069,7 +4069,7 @@
     },
     {
       "videoId": "u5kJaHDOZME",
-      "title": "Migración de Design Systems entre cuentas. Equipos y proyectos intactos",
+      "title": "Design Systems migration between accounts. Teams and projects intact.",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2025-11-27T00:00:00Z",
@@ -5117,7 +5117,7 @@
     },
     {
       "videoId": "x4prtZEwg60",
-      "title": "Aplica tus modos de variables de manera masiva en Figma. ¡En todo tu “file” a la vez!",
+      "title": "Apply your variable modes in bulk in Figma. To your entire file at once!",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-27T00:00:00Z",
@@ -5221,7 +5221,7 @@
     },
     {
       "videoId": "rxjL3QW3-cM",
-      "title": "Unboxing + configuración de Figma Creator Micro Keyboard - Review",
+      "title": "Unboxing + Figma Creator Micro Keyboard Setup - Review",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-27T00:00:00Z",
@@ -5325,7 +5325,7 @@
     },
     {
       "videoId": "PpQ_JZWsIJ8",
-      "title": "Mastering Focus States in Figma: PRO Tips! 🔥",
+      "title": "Trucos para dominar el focus en Figma ¡Nivel PRO! 🔥",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-27T00:00:00Z",
@@ -5341,7 +5341,7 @@
     },
     {
       "videoId": "OkoLDvnir5g",
-      "title": "Dev Mode de Figma ya es de pago. ¿Merece la pena? - 💰 Review: precio, integraciones...",
+      "title": "Figma's Dev Mode is now a paid feature. Is it worth it? - 💰 Review: price, integrations...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-27T00:00:00Z",
@@ -5365,7 +5365,7 @@
     },
     {
       "videoId": "QSdF7JJ2SPw",
-      "title": "🤖 Cómo usar copilots en Figma, la IA que SÍ revolucionará el diseño en 2024. Buddy + FeedbackWizard",
+      "title": "🤖 How to use copilots in Figma, the AI ​​that WILL revolutionize design in 2024. Buddy + Feedback...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-27T00:00:00Z",
@@ -5381,7 +5381,7 @@
     },
     {
       "videoId": "LeAYZn-Vb3w",
-      "title": "Cómo unir varios componentes locales y crear 1 librería remota única en Figma, sin perder instancias",
+      "title": "How to merge multiple local components into a single remote library in Figma without losing insta...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-27T00:00:00Z",
@@ -5389,7 +5389,7 @@
     },
     {
       "videoId": "DyD8O2rl6lY",
-      "title": "6 novedades en las variables de Figma. Strokes, grids, strings...",
+      "title": "6 new features in Figma variables: Strokes, grids, strings...",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2024-11-27T00:00:00Z",
@@ -6093,7 +6093,7 @@
     },
     {
       "videoId": "F-lSmSLrf9I",
-      "title": "Create websites in Figma in 1 minute with artificial intelligence. Musho: ChatGPT-4 + Stable Diff...",
+      "title": "Crea webs en Figma en 1 minuto con inteligencia artificial. Musho: ChatGPT-4 + Stable DiffusionXL",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-27T00:00:00Z",
@@ -6213,7 +6213,7 @@
     },
     {
       "videoId": "gRlJePT-6cU",
-      "title": "Fixing the \"detach\" bug in Figma color variables",
+      "title": "Solución al bug de \"detach\" en las variables de color en Figma",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2023-11-27T00:00:00Z",
@@ -7341,7 +7341,7 @@
     },
     {
       "videoId": "BXbCdnuUVGQ",
-      "title": "ClipDrop, magia en tus imágenes de Figma sin necesidad de Photoshop",
+      "title": "ClipDrop, magic for your Figma images without needing Photoshop",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-27T00:00:00Z",
@@ -7349,7 +7349,7 @@
     },
     {
       "videoId": "juhU1a2hHjA",
-      "title": "Controla el tamaño de tus componentes en Figma con min/max-width y min/max-height",
+      "title": "Control your component sizes in Figma using min/max-width and min/max-height",
       "channelId": "UCk5x2DjtQq46lwbA4xBicfQ",
       "channelTitle": "Raúl Marín - Refresh | The latest, no hype",
       "publishedAt": "2022-11-27T00:00:00Z",
